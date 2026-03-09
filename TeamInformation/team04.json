@@ -1,6 +1,6 @@
 {
-  "Team_Number": "",
-  "Team_Name": "",
+  "Team_Number": "4",
+  "Team_Name": "Leap",
   "Project_Description": "",
   "Qualification": "",
   "awards": [
@@ -14,7 +14,7 @@
     }
   ],
   "Team_Members": "",
-  "Advisor": "",
+  "Advisor": "Rob Burns",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",
   "Biggest_Challenges": [""],

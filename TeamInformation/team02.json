@@ -1,6 +1,6 @@
 {
-  "Team_Number": "",
-  "Team_Name": "",
+  "Team_Number": "2",
+  "Team_Name": "Cardia",
   "Project_Description": "",
   "Qualification": "",
   "awards": [
@@ -14,7 +14,7 @@
     }
   ],
   "Team_Members": "",
-  "Advisor": "",
+  "Advisor": "Ewen MacDonald",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",
   "Biggest_Challenges": [""],

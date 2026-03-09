@@ -1,6 +1,6 @@
 {
-  "Team_Number": "",
-  "Team_Name": "",
+  "Team_Number": "1",
+  "Team_Name": "Cool Flash",
   "Project_Description": "",
   "Qualification": "",
   "awards": [
@@ -14,7 +14,7 @@
     }
   ],
   "Team_Members": "",
-  "Advisor": "",
+  "Advisor": "Patricia Nieva",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",
   "Biggest_Challenges": [""],

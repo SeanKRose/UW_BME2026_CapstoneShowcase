@@ -1,6 +1,6 @@
 {
-  "Team_Number": "",
-  "Team_Name": "",
+  "Team_Number": "20",
+  "Team_Name": "iCAP",
   "Project_Description": "",
   "Qualification": "",
   "awards": [
@@ -14,7 +14,7 @@
     }
   ],
   "Team_Members": "",
-  "Advisor": "",
+  "Advisor": "Cosmin Munteanu",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",
   "Biggest_Challenges": [""],

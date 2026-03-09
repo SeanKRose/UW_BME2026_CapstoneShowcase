@@ -1,6 +1,6 @@
 {
-  "Team_Number": "",
-  "Team_Name": "",
+  "Team_Number": "8",
+  "Team_Name": "Haptis",
   "Project_Description": "",
   "Qualification": "",
   "awards": [
@@ -14,7 +14,7 @@
     }
   ],
   "Team_Members": "",
-  "Advisor": "",
+  "Advisor": "Nima Maftoon",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",
   "Biggest_Challenges": [""],
