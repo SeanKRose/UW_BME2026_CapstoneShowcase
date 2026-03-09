@@ -1,0 +1,17 @@
+{
+  "Team_Number": "4",
+  "Team_Name": "Akneeable",
+  "Project_Description": "Akneeable team is designing a rehab device for Total Knee Arthroplasty Patients. It mechanically assists them to improve in a Range Of Motion exercise on day one after surgery. This will improve clinical outcome and reduce postoperative pain, as is motivated by early and high-intensity rehab studies.",
+  "Qualification": "",
+  "awards": "",
+  "Team_Members": "Mohamed Ghaith Majjani",
+  "Advisor": "Calvin Young",
+  "Overall_Capstone_Experience": "Control Sensors Integrated",
+  "Favourite_Memory": "At the symposium, a few people came up who shared their mobility problem, or those of people around them. I could not help them that day, but it is something I pulled with me into tomorrow.",
+  "Biggest_Challenges": ["The sensor was quite noisy when moving. A low pass filter was applied, though a balance had to be struck between signal to noise ratio and latency."],
+  "Takeaway": "I learned to make time to fail, even when I dont have time. The alternative is to fail 2x.",
+  "Advice": "Have fun.",
+  "Contact_Information": "Ghaith Majjani (gmajjani@uwaterloo.ca)",
+  "Primary_Colour":"#1a55b8",
+  "Secondary_Colour":"#FFFFFF"
+}

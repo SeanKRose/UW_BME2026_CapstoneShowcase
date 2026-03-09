@@ -1,0 +1,17 @@
+{
+  "Team_Number": "22",
+  "Team_Name": "Peritoneye",
+  "Project_Description": "Peritonitis is a common and painful infection for peritoneal dialysis patients. The present standard for early detection of peritonitis relies on visual detection of cloudy waste fluid, which can cause a delayed response to life-saving treatment. We have engineered a spectrometry-based approach to detect elevated levels of white blood cells in patients’ waste fluid, enhancing patient safety, reducing hospitalization costs, and improving the accuracy of early-warning alerts.",
+  "Qualification": "",
+  "awards": "",
+  "Team_Members": "Rashmi Avudaiappan, Anudi Sirimanna, Jordan Jamali, Rebecca Schuetze",
+  "Advisor": "Sean Peterson",
+  "Overall_Capstone_Experience": "Trial and Error",
+  "Favourite_Memory": "Colllective suffering and shared trauma <3",
+  "Biggest_Challenges": ["<b>Dependencies:</b> Our project involved several subsections, and although we attempted to divide them into independent tasks, each section ultimately depended on the progress of another. This approach made it difficult to move forward at times, as many tasks were left in limbo waiting for others to be completed. Over-reliance on independence ended up making coordination really difficult.", "<b>Decision-Making:</b A lot of time was spent debating which sensor to use. We got stuck in a loop of indecision and research, and before we knew it, we had reached the prototyping stage without a final decision.Sometimes the best path forward is to simply make a choice, trust it, and adapt as needed. Progress often comes from momentum, not perfection."],
+  "Takeaway": "One of the most valuable lessons we learned was the importance of staying flexible in design. Being too committed to a single idea can stall progress and we found that true innovation often comes from the willingness to pivot when faced with unexpected challenges.",
+  "Advice": "Communication is absolutely essential. One drawback of our experience was that the grading structure heavily emphasized independent work. We didn’t always know what our teammates were working on, which caused a lot of missed opportunities for collaboration and growth. Capstone is meant to be a space for experimentation and collective learning, so try not to divide tasks purely by expertise. Share your goals, stay in sync, and support each other throughout the journey.",
+  "Contact_Information": "Rebecca Schuetze (rschuetz@uwaterloo.ca)",
+  "Primary_Colour":"#767ac3",
+  "Secondary_Colour":"#FFFFFF"
+}

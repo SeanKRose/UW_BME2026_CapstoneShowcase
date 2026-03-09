@@ -1,0 +1,17 @@
+{
+  "Team_Number": "9",
+  "Team_Name": "RENAL",
+  "Project_Description": "Magnetic microrobots are soft micro-scale robots capable of travelling through tight junctions and vessels within the human body to deliver drugs at any location, using magnetic actuation for movement. One promising area of focus is kidney stone removal. While current treatments are invasive, prone to recurrence, and can result in harmful side effects, drug-loaded microrobots can dissolve kidney stones with minimal invasiveness. RENAL leverages computer vision, pathfinding, and 3D modelling to assist urologists with navigating microrobots within the renal system.",
+  "Qualification": "",
+  "awards": "",
+  "Team_Members": "Ethan Luk, Andrew Trieu, Luis Gonzalez Serracin, Brooklyn Wong",
+  "Advisor": "Veronika Magdanz",
+  "Overall_Capstone_Experience": "Fun <i>little</i> project",
+  "Favourite_Memory": "Dropping the microrobot during the very first demo at the symposium. The embarassing 30 seconds of frantically looking for it in front of the audience gives a good laugh now. ",
+  "Biggest_Challenges": ["Interfacing with a new robot arm - pivoted in another direction/chanigng scope of the porject ot have less reliance on a robot arm.", "Difficulty obtaining an ultrasound probe and lack of funding to purchase one. We contacted other departments within UW to borrow equipment; however, we were heavily time-constrained in using the probe to collect data for the project.", "Effectively collecting ultrasound data - creating new 3D models, using motion capture sensors to determine accurate positional data of ultrasound probe, recording Doppler shifts with phone camera."],
+  "Takeaway": "Microrobotics is an incredibly exciting field and we have only scratched the surgace of its applications in this project.",
+  "Advice": "Make good use of BME 362 - Look for a capstone advisor as soon as possible and maybe start prototyping early. Time management and organizaiton are much more important than you may realize.",
+  "Contact_Information": "Luis Gonzalez Serracin (luisn0108@gmail.com)",
+  "Primary_Colour":"#789DE4",
+  "Secondary_Colour":"#FFFFFF"
+}

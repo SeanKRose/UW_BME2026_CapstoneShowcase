@@ -1,0 +1,102 @@
+body
+{
+    background-color: white;
+    font-size: 18px;
+    color: black;
+    font-family: Verdana, sans-serif;
+
+}
+
+h1
+{
+    font-size: 3vw;
+    font-family: Verdana, sans-serif;
+
+}
+
+.title {
+    color: black;
+    text-align: center;
+    font-size: 5vw;
+    font-family: Georgia, serif;    
+
+    /* Flexbox for vertical centering */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Padding for vertical spacing */
+    padding: 1rem 0;
+    gap: 1rem; /* Optional: space between logo and text if added */
+}
+
+
+.format
+{
+    margin: auto;
+    width: 90%;
+}
+
+.intro
+{
+    padding: 20px 0px;
+    font-size: 2.08vw;
+    font-family: Verdana, sans-serif;
+    background-color: lightcyan;
+}
+
+.memories
+{
+    padding: 0px 0px;
+    font-size: 1.08vw;
+}
+
+
+.subtitle
+{
+    font-size: 2vw;
+
+}
+
+.center-text {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.logo-wide {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.poster-image {
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.team-image {
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.prototype-image {
+    max-width: 80vw;      /* maximum 95% of the viewport width */
+    max-height: 75vh;     /* maximum 75% of the viewport height */
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;  /* ensures aspect ratio is maintained */
+}

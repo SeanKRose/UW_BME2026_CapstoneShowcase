@@ -1,0 +1,17 @@
+{
+  "Team_Number": "23",
+  "Team_Name": "RFAI",
+  "Project_Description": "Radiofrequency ablation (RFA) is an ultrasound-guided procedure for treating thyroid tumours. However, the current technique presents several real-time challenges for tracking the tumour due to patient movement and limited tissue contrast. RFAI seeks to enhance the RFA process by incorporating a machine learning model that outlines the residual tumour tissue in real-time. This innovation aims to simplify the procedure, improve patient outcomes, and encourage broader adoption among physicians, ultimately making this less invasive treatment more accessible to patients.",
+  "Qualification": "Medical AI Specialization",
+  "awards": "",
+  "Team_Members": "Seerat Parmar, Abbey Israel, Michael Murray, Nick Virzi",
+  "Advisor": "HJ Kwon",
+  "Overall_Capstone_Experience": "Adapt, Learn, Create",
+  "Favourite_Memory": "All the time spent working on our poster and projects as a team! We were friends prior to making the team so it was always fun to shoot out ideas and work on a project with people you are comfortable with",
+  "Biggest_Challenges": ["We had a primary stakeholder who spoke a different language so our communication was through another person. This caused needs and requirements to sometimes be different than intended and we’d have to change the design and/or scope."],
+  "Takeaway": "I think that picking your team is very important, but you also need to learn to compromise. No team will mesh perfectly without consideration for others’ timelines, expectations, and in many cases emotions. ",
+  "Advice": "Each team member should dip their toes in each aspect of the project. By focusing on one task you miss out on perspectives that can make your design even better.",
+  "Contact_Information": "Seerat Parmar (Seerat.parmar2002@gmail.com)",
+  "Primary_Colour":"#B30101",
+  "Secondary_Colour":"#F3CDCC"
+}

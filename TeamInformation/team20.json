@@ -1,0 +1,17 @@
+{
+  "Team_Number": "20",
+  "Team_Name": "WheelSafe",
+  "Project_Description": "WheelSafe is a system designed to mitigate backward tipping in manual wheelchairs, lowering the risk of serious injuries such as head trauma and spinal cord damage. It uses Inertial Measurement Unit (IMU) sensors to detect backward falls in real time and subsequently triggers a solenoid-based mechanism to stabilize the wheelchair. This design ensures quick response time, energy efficiency, and minimal interference with regular wheelchair maneuvers. WheelSafe enables users to navigate curbs and uneven terrain while maintaining their independence by striking a balance between safety, mobility and independence.",
+  "Qualification": "",
+  "awards": [{"title":"Canadian Posture & Seating Centre Project", "details":"Award Recipient"}],
+  "Team_Members": "Rayeeda Afrida Prerona, Isha Sharma, Khanh Le, Sofia Rodriguez Suarez",
+  "Advisor": "Jenny Howcroft",
+  "Overall_Capstone_Experience": "Exhilarating, Tense, & Relief",
+  "Favourite_Memory": "Spending time with teammates together even if the prototype wasn't working and when things finally started to work together for symposium and project. In addition, the final presentation thank you slide",
+  "Biggest_Challenges": ["Hardware wise, Integration and fusing components, not to mention soldering for the first time for Rayeeda. Software wise, it was also Khanh's first time working with sensors and collecting data. Overall, the main challenge we faced was integrating all the different components and be able to be realistic to real-life falls as making people fall while sitting on wheelchair to collect data is ethically illegal. Most of how we overcame these challenges was doing a lot of research, trial and error, and continuous iteration/learning."],
+  "Takeaway": "We definitely learnt a lot about failure more than wins and we had great morale to push through it. Failure is a part of process even if it is at 3am before symposium.",
+  "Advice": "<ul><li>Stick to a timeline as much as possible every week.</li><li>Have accountability to document everything either as a team or individually as it helps keep track</li><li>Start prototyping early in 4B just to get the hang of things if you're new to something.</li><li>Explore resources around campus esp for 3d printing, hardware and firmware assets, laser cutting, and know where to access these outside of E7 as well.</li><li>Choose an advisor early, possibly have a few in mind as they do get busy with them soon. Definitely ask before 4B if you want someone with your previous idea, or at least by the first week of 4B if you've pivoted.</li><li>Pick your team wisely. Listen to classmates about what others' work ethics look like. It's better to work with someone hardworking than someone who's good at talking but not at working. Try to find team members you're compatible with throughout your course.</li><li>Communicate with the team as much as you can before it's too late. If you start seeing red flags take immediate actions before your project and yourself takes the strain.</li><li>Don't hesitate emailing companies/businesses for devices or stuff not the same as stakeholder interviews but for resources around Waterloo.</li></ul>",
+  "Contact_Information": "Khanh Le (khanh.le@uwaterloo.ca)",
+  "Primary_Colour":"#2A216E",
+  "Secondary_Colour":"#F5F0EC"
+}

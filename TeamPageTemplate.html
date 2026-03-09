@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{Team_Name}}</title>
+    <link rel="stylesheet" href="../TeamPages.css">
+    <style>
+        body {
+            background-color: {{ Primary_Colour | default("#ffffff") }};
+            color: #000000;
+        }
+
+        .title, h1, h2, h3, h4, h5, h6 {
+            color: {{ Primary_Colour | default("#000000") }};
+            background-color: {{ Secondary_Colour | default("#ffffff")}};
+            border-radius: 8px;
+        }
+
+        .intro {
+            border: 2px solid {{ Secondary_Colour | default("#000000") }};
+            padding: 15px;
+            border-radius: 8px;
+            background-color: {{ Secondary_Colour | default("#ffffff") }};
+        }
+    </style>
+</head>
+
+<body class="container format">
+    <h1 class="title"> 
+        {% if Has_Logo %}
+            <img class="logo-wide" src="../TeamLogo/{{Team_Number}}.png" alt="{{Team_Name}} Logo">
+        {% else %}
+            <u>{{ Team_Name }}</u>
+        {% endif %}
+    </h1>
+
+
+    <div class="container intro">
+        <p1>
+            <h1 class="title">Project Description</h1>
+            <body>{{Project_Description}}</body>
+            <br><br>
+
+            {% if Video_File %}
+                <video class="prototype-image" controls muted loop>
+                    <source src="../TeamPrototypes/{{ Team_Number }}.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            {% else %}
+                <img class="prototype-image" src="../TeamPrototypes/{{ Team_Number }}.png" alt="Picture of {{ Team_Name }}'s Prototype">
+            {% endif %}
+            <br><br>
+
+            {% if Qualification %}
+                <h2>Qualification for Specializations & Options</h2>
+                This project fulfills the capstone requirements of the <b>{{Qualification}}</b>.
+            <br>
+            {% endif %}
+
+            {% if awards %}
+                <h2>Funding, Awards, & Distinctions</h2>
+                {% for award in awards %}
+                    <b>{{ award.title }}:</b> {{ award.details }}<br>
+                {% endfor %}
+            {% endif %}
+        </p1>
+    </div>
+
+    <br>
+
+    <div class="container intro">
+        <p4>
+            <h1 class="title">Symposium Poster</h1>
+            <img class="poster-image" src="../TeamPosters/{{Team_Number}}.jpg" alt="Picture of {{Team_Name}}'s Capstone Symposium Poster">
+        </p4>
+    </div>
+
+    <br>
+
+    <div class="container intro">
+        <p1>
+            <h1 class="title">Meet the {{Team_Name}} Team!</h1>
+            <br>
+            <img class="team-image" src="../TeamPictures/{{Team_Number}}.jpg" alt="A picture of {{Team_Name}}">
+            <p class="center-text">{{Team_Members}}</p>
+            <p class="center-text">Advisor: {{Advisor}}</p>
+        </p1>
+    </div>
+
+    <br>
+
+    <div class="container intro">
+        <h1 class="title">Overall Capstone Experience</h1>
+
+        <h3 class="subtitle">Capstone Described in 3 Words:</h3>
+        <p>{{Overall_Capstone_Experience}}</p>
+
+        <h3 class="subtitle">Favourite Capstone Memory</h3>
+        <p>{{Favourite_Memory}}</p>
+
+        <h3 class="subtitle">Biggest Challenges</h3>
+        {% if Biggest_Challenges | length == 1 %}
+            <p>{{ Biggest_Challenges[0] }}</p>
+        {% elif Biggest_Challenges %}
+            <ol>
+                {% for challenge in Biggest_Challenges %}
+                <li>{{ challenge }}</li>
+                {% endfor %}
+            </ol>
+        {% else %}
+            <p>No challenges listed.</p>
+        {% endif %}
+
+        <h3 class="subtitle">Takeaways</h3>
+        <p>{{Takeaway}}</p>
+        
+        <h3 class="subtitle">Advice for Future BME Students</h3>
+        <p>{{Advice}}</p>  
+    </div>
+
+    {% if Additional_Information %}
+    <br>
+    <div class="container intro">
+        <h1 class="subtitle">Additional Information</h1>
+        <ol>
+            {% for info in Additional_Information %}
+            <li><a href="{{info.link}}">{{info.type}}</a></li>
+            {% endfor %}
+        </ol>
+    </div>
+    {% endif %}
+
+    {% if Contact_Information %}
+    <br>
+    <div class="container intro">
+        <h1 class="subtitle">Contact Information</h1>
+        Feel free to reach out to {{Contact_Information}} with any questions.
+    </div>
+    {% endif %}
+
+    <br>
+</body>
+</html>

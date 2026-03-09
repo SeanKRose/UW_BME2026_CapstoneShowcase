@@ -1,0 +1,17 @@
+{
+  "Team_Number": "21",
+  "Team_Name": "NeuroGuard",
+  "Project_Description": "We are developing a comfortable, wearable headpiece for nightly use that utilizes real-time EEG monitoring and IMU positioning data. This innovative device detects high-risk seizure positions associated with SUDEP and wakes the user only when necessary, providing greater peace of mind and reducing anxiety. EEG recordings are stored in a mobile app, allowing users to securely share data with medical professionals for enhanced care and monitoring.",
+  "Qualification": "Neural Engineering Specialization",
+  "awards": [{"title":  "Norman Esch Competition", "details": "Semi-Finalist"}],
+  "Team_Members": "Naomi Thomas, Shreya Pawar, Bhavisha Mistry, Alyson Ranger",
+  "Advisor": "James Tung",
+  "Overall_Capstone_Experience": "Growth, Perseverance, & Rewarding",
+  "Favourite_Memory": "The time spent working in the lab together",
+  "Biggest_Challenges": ["We encountered team dynamic challenges which became complex as there was a lot of misunderstandings from each team member about expectations, trust and communication. We overcame it by having constant communication with the course professor who gave us direct support for our communication, worked with students to ensure the project got completed."],
+  "Takeaway": "It’s ok to ask for help, Capstone team dynamic issues are common and deal with these issues as early as possible.",
+  "Advice": "<p>Talk to as many people as possible about your project, reach out to medical professionals, other professors and community members.</p><p>Use the opportunity to develop your skills working in a team. You may need to take on new roles within the team and use that as an opportunity to learn, get feedback from others on your team and professors.</p><p>If you are struggling or feel your project is struggling, reach out for help early!</p>",
+  "Contact_Information": "Alyson Ranger (a3ranger@uwaterloo.ca)",
+  "Primary_Colour":"#033e8d",
+  "Secondary_Colour":"#FFFFFF"
+}

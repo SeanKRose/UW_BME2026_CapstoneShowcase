@@ -1,0 +1,17 @@
+{
+  "Team_Number": "11",
+  "Team_Name": "SmartSplint",
+  "Project_Description": "SmartSplint focuses on developing customized, 3D-printed finger splints for individuals with deviation at the distal interphalangeal joint due to osteoarthritis. Our objectives include joint stabilization, pain reduction in everyday tasks, and maintenance of functional mobility. Users capture finger measurements via a smartphone-based scanning app for a personalized fit. A parameterized 3D model enables rapid customization, providing an end-to-end solution that supports users throughout disease progression. Our team strives to provide a comfortable, lightweight splint that empowers users to engage in their daily routines.",
+  "Qualification": "",
+  "awards": "",
+  "Team_Members": "Rozhan Akrami, Mara Jenkins, Amanda Power, Irene Ni",
+  "Advisor": "Mihaela Vlasea",
+  "Overall_Capstone_Experience": "Chaotic, iterative, FINGERS",
+  "Favourite_Memory": "Our favourite memory was presenting at the capstone symposium. It was incredibly rewarding to share our work with others and see how our full end-to-end solution came together. After all the challenges and iterations, seeing everything click was a proud and memorable moment for our team.",
+  "Biggest_Challenges": ["Our biggest challenge was meeting some of the physical design requirements we had set early on while working with material constraints and dealing with unexpected material properties that only became apparent during prototyping. This made meeting our design requirements more complex than anticipated, as it required us to revisit and adapt our initial design. We overcame this by keeping our design flexible, allowing us to pivot as needed, and by going through multiple prototype iterations to gradually produce an appropriate solution."],
+  "Takeaway": "One of our key takeaways from this project was the importance of clear and proactive communication when working with multiple supervisors, particularly in complex, multi-stage projects. Taking time to align on fundamental aspects of projects regularly throughout the process can help to avoid delays while working towards hard deadlines.",
+  "Advice": "Don’t be afraid to pivot if you have a better idea, but also recognize when you have to commit to tackling a hard problem.",
+  "Contact_Information": "Mara Jenkins (m3jenkins@uwaterloo.ca)",
+  "Primary_Colour":"#152C79",
+  "Secondary_Colour":"#D6F5FF"
+}

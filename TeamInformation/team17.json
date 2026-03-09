@@ -1,0 +1,21 @@
+{
+  "Team_Number": "17",
+  "Team_Name": "MSense",
+  "Project_Description": "Our project is a wearable sensor system for individuals with relapse-remitting multiple sclerosis to detect and alert for oncoming fatigue. Using motion data, temperature, pulse oximetry, and other biomedical measurements, an individual's fatigue on the VAS scale can be calculated in real time. With a machine learning model and phone application, the user will be updated with their predicted fatigue ratings a few hours in advance to help them track their bouts of fatigue and plan their day more effectively.",
+  "Qualification": "Medical AI Specialization & Medical Devices Specialization",
+  "awards": "",
+  "Team_Members": "Betul Sarikaya, Adalia Spadafora, Rian Matti, Ria Prakash",
+  "Advisor": "Robert Hunter",
+  "Overall_Capstone_Experience": "Insightful",
+  "Favourite_Memory": "Having a completed pipeline from hardware sensors collecting data in real time, sending them to the AWS cloud, cleaning and processing it, passing the data through the trained ML model for inference production, and then passing and displaying these updated results on the iPhone application successfully!",
+  "Biggest_Challenges": ["Consistently collecting clear relatively low noise signals while the patient was moving around, helped by a tight strap and more robust processing algorithm;", "Maintaining constant signal passing from hardware to the cloud;", "Training the ML with limited data and in person use, which could benefit from more personal patient data for training before use."],
+  "Takeaway": "Learned that you can accomplish crazy things in a time crunch and can learn things you’ve never done before if stuff needs to get done!",
+  "Advice": "You can learn entirely new skills for capstone! Don’t back away from a project for that reason, and try to choose group members with different niches so that your skills come together well.",
+  "Contact_Information": "Ria Prakash at r7prakas@uwaterloo.ca or riri36 on Discord",
+  "Primary_Colour":"#663973",
+  "Secondary_Colour":"#d1c8e4",
+  "Additional_Information": [
+    {"type": "Panel Exam", "link": "https://docs.google.com/presentation/d/14HwAB2PJWXYx0aK9xRcK0MVR2DuC5FMxirY4sLfvJ7M/edit?usp=sharing"},
+    {"type": "Design Report", "link": "final report: https://docs.google.com/document/d/1-g_pGnc4yG4Ixz513xB9NEvfLh7AKCQMmkmUkCAztKg/edit?usp=sharing"}
+  ]
+}

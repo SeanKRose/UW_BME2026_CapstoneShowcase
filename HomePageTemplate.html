@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>BME 2025 Capstone Showcase</title>
+    <link rel="stylesheet" href="HomePage.css" />
+    <link rel="icon" type="image/png" href="smugwhale.png">
+</head>
+<body>
+    <div class="header">
+        <img src="TeamLogo/uwbmelogo.png" alt="University of Waterloo Logo" class="logo-left" />
+        <h1>2025 BME Capstone Showcase</h1>
+        <img src="TeamLogo/uwbmelogo.png" alt="UW Biomedical Engineering Logo" class="logo-right" />
+    </div>
+
+    <div class="gallery">
+        {% for team in teams %}
+        <a class="tile" href="{{ team.Page_Link }}">
+            <div class="caption">{{ team.Team_Name }}</div>
+            <div class="image-container">
+                <div class="flip-card-inner">
+                    <img src="{{ team.Poster }}" alt="{{ team.Team_Name }} Poster" class="poster-img" />
+                    <img src="{{ team.Prototype_Image }}" alt="{{ team.Team_Name }} Prototype" class="prototype-img" />
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</body>
+</html>

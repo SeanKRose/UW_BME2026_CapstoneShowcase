@@ -1,0 +1,17 @@
+{
+  "Team_Number": "8",
+  "Team_Name": "EZG",
+  "Project_Description": "Misplaced ECG leads affect up to 64% of cases, leading to false diagnoses in 24% of patients. Our project aims to develop an AR-based training device that ensures accurate ECG electrode placement by referencing bony landmarks across diverse patient physiques. Using Unity and iOS, our mobile solution provides real-time feedback to trainees, enhancing learning efficiency and reducing variability in placement. By replacing traditional training with an interactive, standardized approach, we are addressing a critical gap in ECG education for healthcare professionals.",
+  "Qualification": "",
+  "awards": "",
+  "Team_Members": "Sarah Abellera, Christina Xie, Matthew Sun-Ren, Jennifer Chung",
+  "Advisor": "Alex Wong",
+  "Overall_Capstone_Experience": "Suffering... with friends :)",
+  "Favourite_Memory": "Despite all the suffering, it was done together! The camaraderie and companionship from all the groupmates was a constant reminder that as long as we worked together, it was going to be ok!",
+  "Biggest_Challenges": ["Four non software oriented people choosing to do an extremely software dependent project in Unity."],
+  "Takeaway": "This was the biggest project that all of us had ever attempted so it’s fair to say that we made a lot of planning and logistical errors that we learned from. For example, making sure to choose an appropriate mixed reality/AR system at the start of 4A and not halfway through the first month of 4B :D ",
+  "Advice": "Find an advisor sooner rather than later (start looking in 3B!), get as much feedback as possible from anybody and everybody at every stage (even in just pure ideation!)",
+  "Contact_Information": "Matt Sun-Ren (ysunren@uwaterloo.ca or ymattsr24@gmail.com)",
+  "Primary_Colour": "#BB2D2D",
+  "Secondary_Colour": "#ffffff"
+}
