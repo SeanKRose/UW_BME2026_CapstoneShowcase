@@ -1,20 +1,31 @@
 {
-  "Team_Number": "6",
-  "Team_Name": "Sound2Sleep",
-  "Project_Description": "Sound2Sleep addresses sleep disruption in children with epilepsy through an innovative closed-loop auditory stimulation device. With real-time detection of slow-wave brain oscillations, the technology delivers precise, phase-targeted bursts of pink noise to optimize the restorative properties of sleep. As a result, this intervention improves sleep quality and cognitive functioning in children with epilepsy. The take-home device offers families an accessible and non-invasive approach to managing sleep challenges, supporting children's daily performance and cognitive development.",
-  "Qualification": "Neural Specialization",
-  "awards": [{
-      "title": "Norman Esch Pitch Competition",
-      "details": "2025 Finalist"
-    }],
-  "Team_Members": "Jaeyoung Kang, Vicki Li, Sean D’Mello, Kevin Xue",
-  "Advisor": "Bryan Tripp & George Ibrahim",
-  "Overall_Capstone_Experience": "Fun, Awesome, Great",
-  "Favourite_Memory": "Competing in the Norman Esch Pitch Competition. Working with venture capitalists to refine our pitch to have the best chance of winning.",
-  "Biggest_Challenges": ["Figuring out how to get our code to run with the EEG headset. It took a lot of experimentation and advice from advisors before we were able to get it to work."],
-  "Takeaway": "How to work with a team and coordinate efforts so that everyone’s parts can be combined in the final product.",
-  "Advice": "Use your co-ops as an opportunity to explore potential capstone projects. Ask your mentors if they have any ideas for a potential project.",
-  "Contact_Information": "Sean D'Mello (sjedmell@uwaterloo.ca)",
-  "Primary_Colour":"#1E5BA9",
-  "Secondary_Colour":"#FFFFFF"
+  "Team_Number": "",
+  "Team_Name": "",
+  "Project_Description": "",
+  "Qualification": "",
+  "awards": [
+    {
+      "title": "",
+      "details": ""
+    },
+    {
+      "title": "",
+      "details": ""
+    }
+  ],
+  "Team_Members": "",
+  "Advisor": "",
+  "Overall_Capstone_Experience": "",
+  "Favourite_Memory": "",
+  "Biggest_Challenges": [""],
+  "Takeaway": "",
+  "Advice": "",
+  "Contact_Information": "",
+  "Primary_Colour": "",
+  "Secondary_Colour": "",
+  "Additional_Information": [
+    {"type": "Symposium Slides", "link": ""},
+    {"type": "Panel Exam", "link": ""},
+    {"type": "Design Report", "link": ""}
+  ]
 }

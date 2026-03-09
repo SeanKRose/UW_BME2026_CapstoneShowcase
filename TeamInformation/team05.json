@@ -1,21 +1,31 @@
 {
-  "Team_Number": "5",
-  "Team_Name": "BP-Insight",
-  "Project_Description": "Post-stroke patients face elevated risks from unpredictable blood pressure fluctuations, which can lead to recurrent strokes. We are developing a comfortable, continuous, cuffless blood pressure monitor that uses an optical sensor to estimate blood pressure in real time. Our AI-driven solution empowers patients to understand and manage their blood pressure while providing clinicians with personalized, actionable data to reduce the risk of subsequent strokes.",
+  "Team_Number": "",
+  "Team_Name": "",
+  "Project_Description": "",
   "Qualification": "",
   "awards": [
     {
-      "title": "NRC Grant",
-      "details": "Funding up to $200,000 to continue with the project in grad school."
-    }],
-  "Team_Members": "Victor Crisan, Marley O'Connell, Lauren Toy, Kyle Scenna",
-  "Advisor": "Catherine Burns",
-  "Overall_Capstone_Experience": "Fun, Challenging, & Rewarding",
-  "Favourite_Memory": "Losing roll up the rim after every capstone meeting.",
-  "Biggest_Challenges": ["Lack of data available for our use case. This challenge was overcome by developing a synthetic dataset based on research.", "Not being able to validate our project on our target audience (post-stroke patients). Although we got feedback on wireframes from this population through a focus group, we didn’t have enough time at the end to validate that our requirements were met with this population and thus had to test the design on classmates."],
-  "Takeaway": "Get lots of feedback from a variety of people (professors, supervisors, classmates, etc). Try to talk to key stakeholders early on. At the same time, be mindful not to overextend yourselves as speaking with too many people can take away from the time you need to work on your project.",
-  "Advice": "Reach out to advisors early. Try not to jump to a project idea too fast and spend more time talking to stakeholders first.",
-  "Contact_Information": "Marley O'Connell (marleyoconnell@gmail.com)",
-  "Primary_Colour":"#073863",
-  "Secondary_Colour":"#EEEEEE"
+      "title": "",
+      "details": ""
+    },
+    {
+      "title": "",
+      "details": ""
+    }
+  ],
+  "Team_Members": "",
+  "Advisor": "",
+  "Overall_Capstone_Experience": "",
+  "Favourite_Memory": "",
+  "Biggest_Challenges": [""],
+  "Takeaway": "",
+  "Advice": "",
+  "Contact_Information": "",
+  "Primary_Colour": "",
+  "Secondary_Colour": "",
+  "Additional_Information": [
+    {"type": "Symposium Slides", "link": ""},
+    {"type": "Panel Exam", "link": ""},
+    {"type": "Design Report", "link": ""}
+  ]
 }

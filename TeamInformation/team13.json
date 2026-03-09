@@ -1,25 +1,31 @@
 {
-  "Team_Number": "13",
-  "Team_Name": "PneumoGuide",
-  "Project_Description": "Lung diseases are the second leading cause of hospitalization in Canada. A chest x-ray is currently the standard method of diagnosis for such conditions, but it is expensive, not portable, and exposes patients to harmful ionizing radiation. Despite being cheaper, highly portable, and transmitting zero radiation, ultrasound is underutilized mainly due to a lack of trained personnel. PneumoGuide provides an augmented reality solution to guide inexperienced ultrasound users towards correct probe placement for lung exams. ",
-  "Qualification": "Medical AI Specialization",
+  "Team_Number": "",
+  "Team_Name": "",
+  "Project_Description": "",
+  "Qualification": "",
   "awards": [
     {
-      "title": "Yuen Family Foundation Award for Healthy Aging",
-      "details": "Awarded $10,000 from Yuen Family Foundation for targeting a problem space in the general area of healthy aging."
+      "title": "",
+      "details": ""
     },
     {
-      "title": "Best Overall Design Award",
-      "details": "Awarded the Best Overall BME Design at the Capstone Symposium."
-    }],
-  "Team_Members": "Saad Hossain, Tom Chiu, Ryan Yan, Michael Frew",
-  "Advisor": "Sirisha Rambhatla",
-  "Overall_Capstone_Experience": "Intense, Collaborative, & Triumphant",
-  "Favourite_Memory": "Our favourite memory outside of the project were our Shawarma Plus runs after each major milestone. I think our favourite memory related to the project might have been the experience we had preparing for and conducting our trial run for our lung zone detection and guidance system at Fanshawe college. It was satisfying to see everything come together prior to the day of the trial, especially with how close we were to it. The day itself was a unique experience seeing respiratory students use our device, and the collection of data went smoothly as well.",
-  "Biggest_Challenges": ["The biggest challenge was getting a good prototype in time for our appointment at Fanshawe College to test our device on respiratory therapist students. This was challenging as an unpolished prototype would have given us inaccurate results regarding the effectiveness of our idea. This required that various components were in a working state, including the landmark detection, IOS guidance software and UI, PCB hardware and firmware, and the mechanical attachment to the ultrasound probe. Assembling the PCB was a challenge as we had QFN packages that were effective in their compact size, but terribly tedious to solder as they are prone to solder clumping and shorting between the pins if you are not careful with the solder paste and stencil application. This led to 2 failed attempts and a lot of wasted components before a successful assembly on the 3rd try."],
-  "Takeaway": "Effective collaboration and empathy in moments of stress and mistakes went a long way in making the project feel seamless and a lot less stressful. We faced the deadline for our trial with respiratory students, and certain components to the project were facing technical challenges. While it was stressful for the members that had their specific technical issues, an unserious and joking environment helped a lot in conquering the obstacles. Other group members who were already finished with their parts actively took it upon themselves to cover for the troubled members in meaningful ways.",
-  "Advice": "Doing your logbook routinely and keeping track of expenses for the expense report goes a long way in mitigating the stress that comes with piecing events together when it close to exams. All in all, make groups with friends that you collaborate well with, and enjoy the ride!",
-  "Contact_Information": "Tom Chiu (t4chiu@uwaterloo.ca)",
-  "Primary_Colour":"#115E6B ",
-  "Secondary_Colour":"#A4DBF7"
+      "title": "",
+      "details": ""
+    }
+  ],
+  "Team_Members": "",
+  "Advisor": "",
+  "Overall_Capstone_Experience": "",
+  "Favourite_Memory": "",
+  "Biggest_Challenges": [""],
+  "Takeaway": "",
+  "Advice": "",
+  "Contact_Information": "",
+  "Primary_Colour": "",
+  "Secondary_Colour": "",
+  "Additional_Information": [
+    {"type": "Symposium Slides", "link": ""},
+    {"type": "Panel Exam", "link": ""},
+    {"type": "Design Report", "link": ""}
+  ]
 }

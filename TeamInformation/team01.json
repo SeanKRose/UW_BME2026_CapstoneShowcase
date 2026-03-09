@@ -1,22 +1,31 @@
 {
-  "Team_Number": "1",
-  "Team_Name": "Cognify",
-  "Project_Description": "Mild Cognitive Impairment (MCI) is an early indicator of dementia, yet traditional diagnostic methods are often inaccurate, expensive, and require clinical administration. Cognify was developed as an accessible, at-home cognitive monitoring tool for individuals under 65, integrating language, memory, and eye-tracking assessments through interactive digital tasks. By analyzing trends over time, Cognify provides users and healthcare providers with objective insights, enabling early health intervention. This approach bridges the gap between clinical assessments and everyday cognitive health monitoring, making early detection more practical, personalized, and proactive. <p>View a video of the <a href=https://www.youtube.com/watch?v=W2h5MYM-4J4&ab_channel=AsmaAnsari>prototype demonstration</a>.</p>",
+  "Team_Number": "",
+  "Team_Name": "",
+  "Project_Description": "",
   "Qualification": "",
   "awards": [
     {
-      "title": "Yuen Family Foundation Award for Healthy Aging",
-      "details": "Awarded $10,000 for demonstating a potential for significant innovation in support of healthy aging."
+      "title": "",
+      "details": ""
+    },
+    {
+      "title": "",
+      "details": ""
     }
   ],
-  "Team_Members": "Mekeda Dickenson, Amena Syed, Asma Ansari, Sophia Lollino",
-  "Advisor": "John Zelek",
-  "Overall_Capstone_Experience": "Evolving, User-Driven, & Impactful",
-  "Favourite_Memory": "Our favourite capstone memory was initially sitting down with our stakeholders to really talk through our problem space. In that moment it reaffirmed to us that there was a clear gap in detecting early cognitive decline",
-  "Biggest_Challenges": ["Our biggest challenge was integrating multiple subsystems (eye tracking, speech analysis, and memory testing) into the application while also navigating data privacy and storage concerns, given that we collected personal health-related metrics."],
-  "Takeaway": "We realized that strong communication can make or break a project, and that things can fall apart fast if the team isn’t aligned on goals, priorities, and expectations",
-  "Advice": "Don't be afraid to fail fast, listen closely to your stakeholders, and design around their needs (not your assumptions).",
-  "Contact_Information": "Amena Syed (amena.syed@uwaterloo.ca)",
-  "Primary_Colour":"#2F3B66",
-  "Secondary_Colour":"#FFFFFF"
+  "Team_Members": "",
+  "Advisor": "",
+  "Overall_Capstone_Experience": "",
+  "Favourite_Memory": "",
+  "Biggest_Challenges": [""],
+  "Takeaway": "",
+  "Advice": "",
+  "Contact_Information": "",
+  "Primary_Colour": "",
+  "Secondary_Colour": "",
+  "Additional_Information": [
+    {"type": "Symposium Slides", "link": ""},
+    {"type": "Panel Exam", "link": ""},
+    {"type": "Design Report", "link": ""}
+  ]
 }

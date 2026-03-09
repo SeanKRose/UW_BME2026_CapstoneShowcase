@@ -62,7 +62,7 @@ print("Generated All Team HTML Files.")
 
 # Render homepage
 homepage_html = home_template.render(teams=homepage_teams)
-with open("BME2025CapstoneShowcase.html", "w", encoding="utf-8") as f:
+with open("BME2026CapstoneShowcase.html", "w", encoding="utf-8") as f:
     f.write(homepage_html)
 
-print("Generated BME2025CapstoneShowcase.html file.")
+print("Generated BME2026CapstoneShowcase.html file.")

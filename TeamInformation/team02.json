@@ -1,0 +1,31 @@
+{
+  "Team_Number": "",
+  "Team_Name": "",
+  "Project_Description": "",
+  "Qualification": "",
+  "awards": [
+    {
+      "title": "",
+      "details": ""
+    },
+    {
+      "title": "",
+      "details": ""
+    }
+  ],
+  "Team_Members": "",
+  "Advisor": "",
+  "Overall_Capstone_Experience": "",
+  "Favourite_Memory": "",
+  "Biggest_Challenges": [""],
+  "Takeaway": "",
+  "Advice": "",
+  "Contact_Information": "",
+  "Primary_Colour": "",
+  "Secondary_Colour": "",
+  "Additional_Information": [
+    {"type": "Symposium Slides", "link": ""},
+    {"type": "Panel Exam", "link": ""},
+    {"type": "Design Report", "link": ""}
+  ]
+}

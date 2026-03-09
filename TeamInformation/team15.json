@@ -1,17 +1,31 @@
 {
-  "Team_Number": "15",
-  "Team_Name": "Achillex",
-  "Project_Description": "Our design aids patients recovering from Achilles tendon ruptures by facilitating plantarflexion and dorsiflexion rehabilitation exercises at home. It offers adjustable resistance to support progressive rehabilitation, collects and displays user-progression data on an accompanying mobile app, and is size-adjustable. This device aims to enhance patient adherence to therapy, track user recovery and improve communication between patients and therapists, supporting effective rehabilitation without compromising accessibility. This project addresses the need for a supportive, adjustable, and data-driven rehabilitation journey.",
+  "Team_Number": "",
+  "Team_Name": "",
+  "Project_Description": "",
   "Qualification": "",
-  "awards": "",
-  "Team_Members": "Emma Louie, Noura Almawi, Sammi Szeto, Kelly Lu",
-  "Advisor": "James Tung & Arash Arami",
-  "Overall_Capstone_Experience": "Underwhelming",
-  "Favourite_Memory": "After spending the last night before symposium grinding out that last bits of integration and testing we watched our prototype suddenly fail. There had been no software changes, no hardware changes, one test it worked and the next it didn’t. We scrambled to the design team bay at 1AM to attempt to find a solution, which miraculously we did (damn connecters not staying in place) and the issue was fixed. We tested it once more at our apartment as a sanity check only for it to not work again. When a solution to the problem (a problem we still don’t quite understand) was found, the pure joy and relief that symposium wouldn’t be a bust was immeasurable. That, in tandem with demoing the prototype to students and staff alike was the highlight of our capstone journey.",
-  "Biggest_Challenges": ["The biggest challenge was working within the tight budget we were given. Prototyping is about trying/failing, but with only $500 failing at any point was a big risk. To go around this we stuck to online simulations before building a physical prototype, and reduced the complexity of our project specifically for the hardware."],
-  "Takeaway": "The biggest takeaway from this project is how important it is to do integration/plan integration from the start of the project. The integration of multiple sub-systems is the most complex piece and requires the most risk assessment and planning. Doing this early on will reduce a lot of issues that may be encountered when prepping for the demo (like our group learned first hand).",
-  "Advice": "As much as you might have an image of what your final capstone will look like, if you’re not willing to go over budget, you’ll never get the desired outcome. $500 is nothing when your project is not solely software, and a “nice” prototype will take money to create. You need to decide early on if you’re going to full send your project and go for awards, and grants or if you’re going to stay within your budget to create your prototype. As a team that went the budget route, we advise you to go all out on your capstone. It will make your experience that much more memorable and will be in line with what a real capstone should look like.",
-  "Contact_Information": "Noura Almawi (nalmawi@uwaterloo.ca)",
-  "Primary_Colour":"",
-  "Secondary_Colour":""
+  "awards": [
+    {
+      "title": "",
+      "details": ""
+    },
+    {
+      "title": "",
+      "details": ""
+    }
+  ],
+  "Team_Members": "",
+  "Advisor": "",
+  "Overall_Capstone_Experience": "",
+  "Favourite_Memory": "",
+  "Biggest_Challenges": [""],
+  "Takeaway": "",
+  "Advice": "",
+  "Contact_Information": "",
+  "Primary_Colour": "",
+  "Secondary_Colour": "",
+  "Additional_Information": [
+    {"type": "Symposium Slides", "link": ""},
+    {"type": "Panel Exam", "link": ""},
+    {"type": "Design Report", "link": ""}
+  ]
 }
