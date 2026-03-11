@@ -1,7 +1,7 @@
 {
   "Team_Number": "16",
   "Team_Name": "VascuLearn",
-  "Project_Description": "",
+  "Project_Description": "Neuroendovascular surgery, a minimally-invasive surgery technique targeting brain diseases like cancer and aneurysms, has revolutionized how we treat brain diseases in adults, but access for Canadian children is limited. Pediatric cases require specialized training due to their complex geometry and unique diseases, which is currently scarce across Canada. VascuLearn, in collaboration with SickKids, is bridging this gap with a pediatric neurovascular simulator. By using a custom pump to mimic blood flow through 3D-printed vessel models based on patient MRI scans, the simulator provides affordable, high-fidelity training, ensuring children can access this gold-standard care.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Lucas Di Pietro, Catie Balasubramanian, Mattie Kerrigan, Connor Kendall",
   "Advisor": "Andrea Scott",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

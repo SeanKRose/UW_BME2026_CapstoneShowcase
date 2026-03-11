@@ -1,7 +1,7 @@
 {
   "Team_Number": "5",
   "Team_Name": "Spiiro",
-  "Project_Description": "",
+  "Project_Description": "Chronic obstructive pulmonary disease (COPD) is the fourth leading cause of death worldwide and affects over 2 million Canadians. Rural patients face the highest risks and often travel hours for infrequent checkups. Spiiro bridges this gap with an at-home system that uses AI to analyze testing techniques and provide feedback on user errors. By generating clinically meaningful metrics in an accessible language, Spiiro supports patients and provides healthcare providers with the insights needed for timely, life-saving clinical decision-making.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Agam Soni, Andrew Gocheco, Andrew Fata, Wilson Chan",
   "Advisor": "John Zelek",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

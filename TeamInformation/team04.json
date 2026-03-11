@@ -1,7 +1,7 @@
 {
   "Team_Number": "4",
   "Team_Name": "Leap",
-  "Project_Description": "",
+  "Project_Description": "Our project investigates knee valgus mechanics during jumping and landing tasks using wearable inertial measurement units and machine learning models trained on motion capture and force plate data. Athlete movement patterns are used to predict knee abduction moment and frontal-plane knee motion in field settings. The goal is to develop an athlete-ready system that delivers interpretable ACL injury risk assessment, performance monitoring, and individualized training feedback for coaches and trainers.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Rebecca Grootendorst, Jack Farlow, Priya Sivarajan",
   "Advisor": "Rob Burns",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

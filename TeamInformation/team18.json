@@ -1,7 +1,7 @@
 {
   "Team_Number": "18",
   "Team_Name": "ABR Detect",
-  "Project_Description": "",
+  "Project_Description": "Antibiotic resistance (ABR) is a growing global threat, yet identifying resistant infections such as urinary tract infections still depends on slow, lab-based testing. In under-resourced settings, harsh environmental conditions and limited infrastructure make these tests impractical, leading to delayed or ineffective treatment. ABRDetect addresses this gap with a compact, low-cost screening device that uses an electromagnetic biosensor to rapidly detect resistance-associated enzymatic activity through resonance frequency shifts. This enables point-of-care screening in settings such as refugee camps, supporting earlier treatment decisions and better patient outcomes.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Ayesha Waseem, Kulsum Ali, Sara Desoky",
   "Advisor": "Robert Hunter & Carolyn Ren",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

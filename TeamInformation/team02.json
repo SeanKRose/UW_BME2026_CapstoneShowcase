@@ -1,7 +1,7 @@
 {
   "Team_Number": "2",
   "Team_Name": "Cardia",
-  "Project_Description": "",
+  "Project_Description": "Many patients with potential heart problems are prescribed a continuous Holter monitor to record electrical heart activity in daily life. However, to obtain context for these signals, patients must keep physical journals to track symptoms and activity. The process is inconvenient, and often logs are left incomplete or inaccurate, limiting the clinical value of the data. We propose a discreet, multimodal Holter device that will reduce the need for manual journaling while automatically capturing contextual activity data, ensuring more reliable and interpretable information for physicians.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Rebecca Lai, Qais Khan, Jarett Dewbury, Owen Clayton",
   "Advisor": "Ewen MacDonald",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

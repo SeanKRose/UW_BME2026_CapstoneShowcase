@@ -1,7 +1,7 @@
 {
   "Team_Number": "6",
   "Team_Name": "VocalPoint",
-  "Project_Description": "",
+  "Project_Description": "Students with hearing disabilities struggle to engage fully in class lectures and group discussions. VocalPoint is a portable table-top device that connects wirelessly to users’ hearing aids to amplify speakers of interest and reduce noise in loud indoor settings. Current technologies are expensive and not compatible with all hearing aids on the market. VocalPoint aims to bridge barriers to education using microphone array processing, voice detection, and localization in a user-friendly package.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Ryan Jing, Tegan Asprey, Jenny Wu, Matthew Keller, Tyler Bell",
   "Advisor": "Ewen MacDonald",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

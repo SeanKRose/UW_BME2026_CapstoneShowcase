@@ -1,7 +1,7 @@
 {
   "Team_Number": "13",
   "Team_Name": "DorsiFlexx",
-  "Project_Description": "",
+  "Project_Description": "DorsiFlexx is a wearable rehabilitation system designed to improve recovery in patients with restricted ankle dorsiflexion, a condition that commonly occurs after ankle sprains. By combining comfortable wearable sensors, machine learning-based movement analysis, and an intuitive mobile app, DorsiFlexx tracks exercise sessions, evaluates movement quality, and provides clear, actionable feedback to patients and their physiotherapists. By promoting proper exercise execution and consistent adherence, DorsiFlexx enables more engaging, data-driven, and effective physiotherapy outcomes.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Dhriti Gabani, Rohan Mistry, Sophia Xie, Mika Shaw",
   "Advisor": "Arash Arami",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

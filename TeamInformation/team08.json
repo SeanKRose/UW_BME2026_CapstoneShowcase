@@ -1,7 +1,7 @@
 {
   "Team_Number": "8",
   "Team_Name": "Haptis",
-  "Project_Description": "",
+  "Project_Description": "Haptis is a wearable system that assists with sound localization for individuals with hearing impairment. Hearing impairment often hinders one’s ability to localize sound, as auditory cues, including interaural differences in sound amplitude and arrival time are diminished. The device captures surrounding audio, which is processed to estimate the horizontal direction of incoming sound. Through delivering distinct haptic vibration patterns associated with sound direction, the device aims to improve the users’ spatial awareness for safety and confidence in responding to conversations and alerts.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Andre Villanueva, Emily Rose, Clara Kim, Navalan Thadchanamoorthy",
   "Advisor": "Nima Maftoon",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

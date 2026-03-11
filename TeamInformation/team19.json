@@ -1,7 +1,7 @@
 {
   "Team_Number": "19",
   "Team_Name": "WAI",
-  "Project_Description": "",
+  "Project_Description": "For many wheelchair users, being weighed during a medical visit is simply not feasible due to clinical constraints. Up to 70% of physicians rely on patients’ recalled weight while others are forced to guess, both of which are prone to error. Inaccurate weight measurements can lead to incorrect medication dosing, missed diagnoses, and other preventable health outcomes. Our project aims to solve this problem by developing a device to measure the weight of adult wheelchair users, reducing physical and financial barriers to accessible care.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Adele Younis, Gavin DePiero, Alexis Bader, Mackenzie Snyder",
   "Advisor": "Jenny Howcroft",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",

@@ -1,7 +1,7 @@
 {
   "Team_Number": "12",
   "Team_Name": "PRISM",
-  "Project_Description": "",
+  "Project_Description": "PRISM is a pressure-sensing system for the interface between a transtibial prosthetic socket and the residual limb. It integrates a distributed array of sensors into a standard prosthetic sock. Calibrated to each user’s anatomy, PRISM measures localized pressure during daily use and presents the data as intuitive, real-time visual feedback. This helps users adjust sock plies throughout the day and enables clinicians to identify high-risk pressure regions, mitigate skin degradation, and make informed socket design decisions.",
   "Qualification": "",
   "awards": [
     {
@@ -13,7 +13,7 @@
       "details": ""
     }
   ],
-  "Team_Members": "",
+  "Team_Members": "Joel Lee, Gloria So, Livia Murray, Gary Liu",
   "Advisor": "Carolyn Ren",
   "Overall_Capstone_Experience": "",
   "Favourite_Memory": "",
