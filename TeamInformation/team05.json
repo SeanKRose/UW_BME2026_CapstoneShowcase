@@ -21,8 +21,8 @@
   "Takeaway": "",
   "Advice": "",
   "Contact_Information": "",
-  "Primary_Colour": "",
-  "Secondary_Colour": "",
+  "Primary_Colour": "#3164DA",
+  "Secondary_Colour": "#FBFCFF",
   "Additional_Information": [
     {"type": "Symposium Slides", "link": ""},
     {"type": "Panel Exam", "link": ""},
