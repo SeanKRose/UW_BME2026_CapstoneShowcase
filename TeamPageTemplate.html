@@ -118,6 +118,14 @@
         <p>{{Advice}}</p>  
     </div>
 
+    {% if Whats_Next %}
+    <br>
+    <div class="container intro">
+        <h1 class="subtitle">What's Next?</h1>
+        <p> {{Whats_Next[0]}}</p>
+    </div>
+    {% endif %}
+
     {% if Additional_Information %}
     <br>
     <div class="container intro">
