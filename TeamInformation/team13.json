@@ -2,26 +2,26 @@
   "Team_Number": "13",
   "Team_Name": "DorsiFlexx",
   "Project_Description": "DorsiFlexx is a wearable rehabilitation system designed to improve recovery in patients with restricted ankle dorsiflexion, a condition that commonly occurs after ankle sprains. By combining comfortable wearable sensors, machine learning-based movement analysis, and an intuitive mobile app, DorsiFlexx tracks exercise sessions, evaluates movement quality, and provides clear, actionable feedback to patients and their physiotherapists. By promoting proper exercise execution and consistent adherence, DorsiFlexx enables more engaging, data-driven, and effective physiotherapy outcomes.",
-  "Qualification": "",
+  "Qualification": "Medical AI Specialization",
   "awards": [
     {
-      "title": "",
-      "details": ""
+      "title": "Engineer of the Future Fund",
+      "details": "Awarded $500 early on in the project for demonstrating great project potential."
     },
     {
-      "title": "",
-      "details": ""
+      "title": "Global Impact Creator Stipend",
+      "details": "Awarded a $12,000 stipend from the Global Impact Creator program."
     }
   ],
   "Team_Members": "Dhriti Gabani, Rohan Mistry, Sophia Xie, Mika Shaw",
   "Advisor": "Arash Arami",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Exciting, Busy, Rewarding",
+  "Favourite_Memory": "Symposium was really fun. Getting to share our project with friends and strangers was really exciting, and they all seemed very impressed by our work!",
+  "Biggest_Challenges": ["Getting things to work, especially on the day of symposium. Our project was working fine the day before, but on the day of symposium, we ran into many WiFi and Bluetooth connectivity issues, which were stressful to troubleshoot on the spot."],
+  "Takeaway": "A good project can really come together when everyone plays to their strengths. Know what you’re good at, know what you want to work on, and design your project in a way that everyone gets to work on both a) what they’re good at, and b) what they want to do.",
+  "Advice": "Choosing a good problem space early is really important. Be serious about your project in 3B. Spend 3B exploring different problem spaces, and only settle for one once everyone in your team is happy with it.",
+  "Whats_Next": ["We will probably not pursue it further :’)"],
+  "Contact_Information": "Dhriti Gabani (dgabani@uwaterloo.ca), Rohan Mistry (r34mistr@uwaterloo.ca), Sophia Xie (s55xie@uwaterloo.ca), or Mika Shaw (m24shaw@uwaterloo.ca)",
   "Primary_Colour": "#040304",
   "Secondary_Colour": "#E8CFE2",
   "Additional_Information": [

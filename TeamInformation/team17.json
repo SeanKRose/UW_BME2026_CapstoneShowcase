@@ -5,8 +5,8 @@
   "Qualification": "",
   "awards": [
     {
-      "title": "",
-      "details": ""
+      "title": "Engineer of the Future Award",
+      "details": "Awarded $500 before 4A and $1,000 in 4B for demonstrating great project potential."
     },
     {
       "title": "",
@@ -15,13 +15,13 @@
   ],
   "Team_Members": "Keenan Ung, Salma Abdelfattah, Wendy Xu, Aidan Kirwin",
   "Advisor": "Sushanta Mitra",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Enduring, Enriching, Rewarding",
+  "Favourite_Memory": "Our favourite capstone memory has to be all the late nights in the SYDE workshop before Symposium. In the weeks leading up to Symposium, we were racing to assemble and test all our subsystems and we unintentionally ended up staying much later than we expected. In an effort to stay awake, we had a running supply of Red Bull and took turns grabbing more whenever we ran out. We were all extremely tired, but going through it together as a team is what made it very memorable.",
+  "Biggest_Challenges": ["We struggled with balancing our other academic responsibilities with our capstone work. In retrospect, despite planning out our term and setting internal deadlines for each system, we would often get delayed by other academic work  and were not able to consistently meet our internal deadlines. Closer to the date of Symposium and our prototype evaluations, we found that we needed to spend a lot of additional time assembling everything and testing.", "Maintaining stakeholders. We struggled for a long time to establish a clinical stakeholder to validate our problem space, and once we found a neurosurgical contact, we were not able to maintain that connection due to their busy schedule. When we also signed up for the Stakeholder Cafe, we were told that a stakeholder could not be found for us. We also tried establishing connections with local hospitals to acquire some equipment, such as saline bags and stopcocks; however, that connection was also difficult to maintain."],
+  "Takeaway": "Things take a lot longer than expected. Our biggest hurdle was not allocating enough time for specific subsystems, thinking that their assembly and testing would not take very long; however, we found that we often encountered unexpected challenges, and we would have benefited from more time.",
+  "Advice": "We would encourage future BME students to begin considering potential capstone projects early in their co-op experiences. Whether in a hospital setting or within the tech industry, every environment presents real challenges that could benefit from real solutions. Starting those conversations with colleagues and stakeholders during these terms can be incredibly valuable for ideating meaningful problem spaces. Our term began with developing our capstone project in our 3B term, which was still plenty of time, but even then, we ultimately defined our problem space through a literature review. In retrospect, we would have benefited more from the project if it was more grounded in a clearly identified clinical need that was informed directly by stakeholders before we began working on the project since we only began finding stakeholders after beginning the project. Also consider evaluating the scope of the project throughout 4A so that adjustments can be made prior to or early on in 4B.",
+  "Whats_Next": ["We are planning on presenting our work at the Waterloo Institute for Nanotechnology (WIN) Day, which provides an opportunity for undergraduate students to showcase their projects. Beyond that, we do not have any other plans to continue the project."],
+  "Contact_Information": "Keenan Ung (kung@uwaterloo.ca), Salma Abdelfattah (sabdelfa@uwaterloo.ca), Wendy Xu (w269xu@uwaterloo.ca), or Aidan Kirwin (akirwin@uwaterloo.ca)",
   "Primary_Colour": "#123354",
   "Secondary_Colour": "#D9D9D9",
   "Additional_Information": [

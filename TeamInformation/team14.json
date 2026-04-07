@@ -2,25 +2,29 @@
   "Team_Number": "14",
   "Team_Name": "EvoSocket",
   "Project_Description": "The current pediatric prosthetic workflow is time-consuming and labour-intensive, resulting in large burdens placed on families in the form of travel and costs. Additionally, children often outgrow their sockets before insurance covers a new one, leading to discomfort, requiring frequent refittings. Our goal is to design a pediatric lower-limb transtibial adjustable socket with moving panels that accommodates complex growth patterns throughout puberty. Using novel technologies like granular jamming and sensor calibration, we hope to reduce the burden on children, their families, and the healthcare system.",
-  "Qualification": "",
+  "Qualification": "Medical Devices Specialization",
   "awards": [
     {
-      "title": "",
-      "details": ""
+      "title": "Canadian Posture and Seating Scholarship",
+      "details": "Awarded $750."
     },
     {
-      "title": "",
-      "details": ""
+      "title": "Support from Sunnybrook",
+      "details": "Received various parts, including a fiberglass adult socket, distal end socket adapter, velcro suspension system, and multijet fusion print of the prototype."
+    },
+    {
+      "title": "Support from Neural and Rehabilitation Engineering Lab",
+      "details": "Received various parts, including a test socket, lower limb prosthetic components (tibia and foot), and CAD for compression testing mechanism."
     }
   ],
   "Team_Members": "Aadithya Sairam, Lucas DeMello, Anna Polack, Anna Klygina, Maggie Lambe",
   "Advisor": "Cynthia Lennon",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
+  "Overall_Capstone_Experience": "Educational, Rewarding, Interdisciplinary",
+  "Favourite_Memory": "Our frequent team meetings - certain members (Aadithya!) would often bring baked goods, we shared very cool updates about our progress, and watched our project slowly come together into a proper design. (Honourable mentions: Inhaling fumes & brunch!)",
+  "Biggest_Challenges": ["Scoping was one of the biggest challenges of capstone. It is very easy to take on more than you can handle, and get too obsessed with the design, to the point of losing sight of your initial requirements.", "Budget management was extremely difficult, especially for our project, which required ambitious complex prototyping. Agreeing on what your team is willing to spend, and divvying up the funding, is key to a prototype your team can be proud of."],
+  "Takeaway": "Engineering projects will present you with many more challenges than you could predict, but if you are passionate about the project and have a supportive team, your determination will pay off and you will be able to make something that you may not have thought was possible 8 months ago.",
+  "Advice": "Dedicate resources on your capstone team to filing awards applications and reaching out to companies for sponsorship - funding is a massive challenge for every single team. Don’t be afraid to reach out to companies and ask for resources/support, or donations in-kind…you may be surprised! ",
+  "Whats_Next": ["The team likely won't pursue further development on the entire adjustable socket as one product after this term. However, several individual elements are very exciting to our team members including granular jamming and using load cells as a proxy to socket-limb interface pressure as these have never been explored before in prosthetic socket applications. With each of these pending provisional patents, there is a possibility of one or more of us pursuing further research into their viabilities in future graduate studies."],
   "Contact_Information": "Aadithya Sairam (asairam@uwaterloo.ca), Lucas DeMello (ldemello@uwaterloo.ca), Anna Polack (apolack@uwaterloo.ca), Anna Klygina (aklygina@uwaterloo.ca), or Maggie Lambe (m2lambe@uwaterloo.ca)",
   "Primary_Colour": "#2B588F",
   "Secondary_Colour": "#AF1314",

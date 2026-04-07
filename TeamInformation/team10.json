@@ -3,25 +3,16 @@
   "Team_Name": "RacquetScience",
   "Project_Description": "Nearly half of all tennis players suffer from elbow pain, with about 75% of these cases resulting in tennis elbow. Players often lack the objective data required to pinpoint the technical habits that trigger their injury. Racquet Science addresses this gap with an integrated monitoring system that tracks grip pressure and wrist mechanics during active play. By mapping these biomechanics trends against user-reported pain levels, the platform provides physiotherapists with evidence-based insights to design effective prevention and recovery strategies. ",
   "Qualification": "",
-  "awards": [
-    {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
-  ],
+  "awards": [],
   "Team_Members": "Shirley Lin, Ashley Chen, Vanessa Mac",
   "Advisor": "John McPhee",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Challenging, Rewarding, Fun",
+  "Favourite_Memory": "The day we tested the whole system (which included our racket and app) and we got real data that made sense!",
+  "Biggest_Challenges": ["All 3 of us mostly had software experience, but it was a nice challenge having a huge hardware component to our project. We all learned a lot about building/testing sensors, 3D printing, and IMUs."],
+  "Takeaway": "Having a strong problem space is key. We found a strong unmet need in the tennis community and that really helped us come to decisions about our design and how to prioritize different features.",
+  "Advice": "Capstone can be a great opportunity to try something outside of your comfort zone! For each of us, we challenged ourselves to try a new skill like soldering, signal processing, or mobile/web app development.",
+  "Whats_Next": ["It would be awesome to have real tennis players and physiotherapists try out our product. A big aspect of our problem space is collecting data about a player's grip and movement patterns to understand how that might contribute to tennis elbow pain. Being able to collect longitudinal data with a real player would be an interesting way to see how effective our product is in real-life scenarios."],
+  "Contact_Information": "Shirley Lin (s326lin@uwaterloo.ca), Ashley Chen (a346chen@uwaterloo.ca), or Vanessa Mac (v4mac@uwaterloo.ca)",
   "Primary_Colour": "#096B3C",
   "Secondary_Colour": "#FFF3D9",
   "Additional_Information": [

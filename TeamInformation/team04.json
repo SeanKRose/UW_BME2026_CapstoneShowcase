@@ -2,28 +2,19 @@
   "Team_Number": "4",
   "Team_Name": "Leap",
   "Project_Description": "Our project investigates knee valgus mechanics during jumping and landing tasks using wearable inertial measurement units and machine learning models trained on motion capture and force plate data. Athlete movement patterns are used to predict knee abduction moment and frontal-plane knee motion in field settings. The goal is to develop an athlete-ready system that delivers interpretable ACL injury risk assessment, performance monitoring, and individualized training feedback for coaches and trainers.",
-  "Qualification": "",
-  "awards": [
-    {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
-  ],
+  "Qualification": "Medical AI and Sports Engineering Specializations",
+  "awards": [],
   "Team_Members": "Rebecca Grootendorst, Jack Farlow, Priya Sivarajan",
   "Advisor": "Rob Burns",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
+  "Overall_Capstone_Experience": "Innovative, interdisciplinary, iterative",
+  "Favourite_Memory": "The first time we successfully tested our prototype in the motion capture lab was an incredible experience for our team. It was incredibly fulfilling to see our hard work come to fruition and have the concept be used on a real participant. Having that moment together as a team was very special and made us realize that we were capable of actually creating a working physical prototype!",
+  "Biggest_Challenges": ["When we realized our first problem space (which we spent 3B working on) wasn’t going to work out for our Capstone and had to pivot to a completely different problem at the start of 4A.", "The circuitry and housing breaking or disconnecting due to new and unforeseen issues, such as strain release, cable types, etc. We had to learn how to make our prototype reliable and robust."],
+  "Takeaway": "The original idea will end up transforming far more than you expect. We started out with one idea, pivoted to something completely different, and even that project evolved far more than we would have expected. Things fall into place way more than you expect. Things may feel far too abstract at first, but the more you work on it and the more the year goes on, the more feasible it feels.",
+  "Advice": "Choosing a project you are actually passionate about is so important. You spend a lot of time working on the project in a variety of ways and you become very integrated in that field. While capstone is a difficult process with many highs and lows, having passion behind your project gives motivation and enjoyment to the work you are doing.",
   "Whats_Next": [],
-  "Contact_Information": "",
-  "Primary_Colour": "#68C193",
-  "Secondary_Colour": "#121413",
+  "Contact_Information": "Rebecca Grootendorst (rggrootendorst@uwaterloo.ca), Jack Farlow (jfarlow@uwaterloo.ca), or Priya Sivarajan (p6sivarajan@uwaterloo.ca)",
+  "Primary_Colour": "#121413",
+  "Secondary_Colour": "#68C193",
   "Additional_Information": [
     {"type": "Symposium Slides", "link": ""},
     {"type": "Panel Exam", "link": ""},

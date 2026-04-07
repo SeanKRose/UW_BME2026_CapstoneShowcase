@@ -2,26 +2,34 @@
   "Team_Number": "1",
   "Team_Name": "Cool Flash",
   "Project_Description": "Menopausal hot flashes are sudden feelings of intense heat, elevated heart rate, and sweating that last 1-5 minutes and may occur multiple times a day. Affecting 85% of women, these symptoms persist for an average of 11 years. CoolFlash aims to mitigate hot flash symptoms by delivering automatic, targeted cooling to the user across a broad surface area of the body.",
-  "Qualification": "",
+  "Qualification": "Medical Devices Specialization",
   "awards": [
     {
-      "title": "",
-      "details": ""
+      "title": "Esch Pitch Competition Finalists",
+      "details": "Awarded $12,000 for extreme entrepreneurial skills in the pursuit of research and development and its commercialization for the benefit of Canada"
     },
     {
-      "title": "",
-      "details": ""
+      "title": "QVI Problem Pitch",
+      "details": "Awarded $7,500 for Research and Development"
+    },
+    {
+      "title": "CABHI Next Gen Program",
+      "details": "Awarded $2,500 and support to accelerate innovation to impact, as part of the Centre for Aging + Brain Health Innovation Program."
+    },
+    {
+      "title": "Engineers of the Future Award",
+      "details": "Awarded $200 for demonstrating exceptional engineering skills and innovation in a capstone project."
     }
   ],
   "Team_Members": "Kate Avison, Jordyn Maywood, Maya DeVries, Mariam Busari",
   "Advisor": "Patricia Nieva",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Inspiring, Challenging, Innovative",
+  "Favourite_Memory": "The first time our prototyped worked and we had our \"this is all coming together\" moment",
+  "Biggest_Challenges": ["- Lack of hotflash data available", "Obtaining the materials needed in small quantities"],
+  "Takeaway": "Understanding your user group and finding a true problem can make the whole experience so much more rewarding",
+  "Advice": "If you find a problem you are truly passionate about, spending hours working on the device will be so much easier",
+  "Whats_Next": ["We are strongly considering the velocity accelerate program and working on making the first protoype over the summer"],
+  "Contact_Information": "Kate Avison (kavison@uwaterloo.ca), Jordyn Maywood (jgmaywood@uwaterloo.ca), Maya DeVries (m5devrie@uwaterloo.ca), Mariam Busari (mbusari@uwaterloo.ca)",
   "Primary_Colour": "#882118",
   "Secondary_Colour": "#F6D7D4",
   "Additional_Information": [

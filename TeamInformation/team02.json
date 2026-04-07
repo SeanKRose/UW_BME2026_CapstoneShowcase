@@ -2,26 +2,17 @@
   "Team_Number": "2",
   "Team_Name": "Cardia",
   "Project_Description": "Many patients with potential heart problems are prescribed a continuous Holter monitor to record electrical heart activity in daily life. However, to obtain context for these signals, patients must keep physical journals to track symptoms and activity. The process is inconvenient, and often logs are left incomplete or inaccurate, limiting the clinical value of the data. We propose a discreet, multimodal Holter device that will reduce the need for manual journaling while automatically capturing contextual activity data, ensuring more reliable and interpretable information for physicians.",
-  "Qualification": "",
-  "awards": [
-    {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
-  ],
+  "Qualification": "Medical AI Specialization",
+  "awards": [],
   "Team_Members": "Rebecca Lai, Qais Khan, Jarett Dewbury, Owen Clayton",
   "Advisor": "Ewen MacDonald",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Contextualizing Continuous Electrocardiograms",
+  "Favourite_Memory": "Despite capstone being one of the most challenging projects any of us have ever worked on, it was also one of the most fun times in our undergraduate degree, having the opportunity to work as a team on a truly impactful and interesting problem space for over a year with some of our best friends! For this reason, it is hard to pin down a single favourite memory, but rather we have a collection of multiple that span from day-to-day interactions, realizations of silly mistakes, and even late night paper submissions.",
+  "Biggest_Challenges": ["1. When we began talking to stakeholders, we wanted to solve one problem - the burden of journalling. However, we quickly found that Holter monitors also have other issues such as skin irritation that a redesigned solution would not be complete without. Moving to address both journalling and irritation requirements through activity classification and dry electrode use, respectively, required extensive multi-disciplinary work to bring to life, as well as compromises between time and requirements.", "Dry electrode development required extensive validation and iteration to achieve comparable signal quality to sticky electrodes while also attempting to minimize movement artifacts. Each iteration presented various unexpected issues during validation, often leading us to more questions than answers and testing the depth of our debugging skills."],
+  "Takeaway": "You don’t need to think that far outside to the box and design something fancy to solve a problem - relatively simple solutions can solve problems well.",
+  "Advice": "Start searching for problems to need to be addressed early in your degree. While searching for a problem, choose a very targeted problem (you can’t solve everything).",
+  "Whats_Next": ["Unfortunately, our work on the project likely ends here, although we do hope to patent it."],
+  "Contact_Information": "Rebecca Lai (r32lai@uwaterloo.ca), Qais Khan (q5khan@uwaterloo.ca), Jarett Dewbury (jdewbury@uwaterloo.ca), or Owen Clayton (oclayton@uwaterloo.ca)",
   "Primary_Colour": "#202020",
   "Secondary_Colour": "#FCF5F5",
   "Additional_Information": [

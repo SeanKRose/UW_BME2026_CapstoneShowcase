@@ -2,26 +2,17 @@
   "Team_Number": "8",
   "Team_Name": "Haptis",
   "Project_Description": "Haptis is a wearable system that assists with sound localization for individuals with hearing impairment. Hearing impairment often hinders one’s ability to localize sound, as auditory cues, including interaural differences in sound amplitude and arrival time are diminished. The device captures surrounding audio, which is processed to estimate the horizontal direction of incoming sound. Through delivering distinct haptic vibration patterns associated with sound direction, the device aims to improve the users’ spatial awareness for safety and confidence in responding to conversations and alerts.",
-  "Qualification": "",
-  "awards": [
-    {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
-  ],
+  "Qualification": "Medical Devices and Medical AI Specializations",
+  "awards": [ ],
   "Team_Members": "Andre Villanueva, Emily Rose, Clara Kim, Navalan Thadchanamoorthy",
   "Advisor": "Nima Maftoon",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
+  "Overall_Capstone_Experience": "Design, Innovation, Impact",
+  "Favourite_Memory": "One of the team’s favorite capstone memories was the first time we saw our prototype work with full integration. After months of working on the subsystems separately, it was really rewarding to see everything come together and function as intended. Not only was it a key  milestone for the project, but also a reflection of the strong team dynamic we had built and what we were able to accomplish together over the past few terms.",
+  "Biggest_Challenges": ["A challenge we faced was navigating digital signal processing of audio signals, which was a key aspect of our project. Initially, we struggled due to inadequate hardware resources which made it difficult to accurately capture, process, and analyze audio data in real time. This and several other similar challenges highlighted the importance of aligning hardware capabilities with software requirements and planning for resource constraints early on."],
+  "Takeaway": "A major takeway was the importance of developing iteratively rather than aiming to find a perfect solution upfront. Unlike structured course assignments, Capstone required making assumptions and adapting, and thus, testing to verify our ideas allowed our team to make more informed design decisions throughout. Another takeaway was the importance of designing for subsystem integration from the start and beginning integration processes earlier rather than later (i.e. executing mechanical design in parallel to other subsystems so that form factor can be adjusted gradually).",
+  "Advice": "For future BME students, we would emphasize the importance of problem space selection not only for implementation scope and business value, but also for personal interest and broader impact overall. Our team pivoted over 5 times across vastly different problem areas, before selecting a problem space which aligned with the experiences of a family member. This was key for developing our understanding of the project’s intended users. Alongside a strong problem space, it’s valuable to build a team of people with complementary skills and/or interests to ensure different subsystems can be owned, and the full scope of the project is covered. However, diverse expertise is not the only important factor for formulating a team; finding others who can give consistent effort and motivation throughout the project is immensely valuable. ",
   "Whats_Next": [],
-  "Contact_Information": "",
+  "Contact_Information": "Andre Villanueva (agvillan@uwaterloo.ca), Emily Rose (erose@uwaterloo.ca), Clara Kim (ck3kim@uwaterloo.ca), or Navalan Thadchanamoorthy (nsthadch@uwaterloo.ca)",
   "Primary_Colour": "#1D213E",
   "Secondary_Colour": "#F1E9DE",
   "Additional_Information": [

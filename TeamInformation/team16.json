@@ -2,26 +2,26 @@
   "Team_Number": "16",
   "Team_Name": "VascuLearn",
   "Project_Description": "Neuroendovascular surgery, a minimally-invasive surgery technique targeting brain diseases like cancer and aneurysms, has revolutionized how we treat brain diseases in adults, but access for Canadian children is limited. Pediatric cases require specialized training due to their complex geometry and unique diseases, which is currently scarce across Canada. VascuLearn, in collaboration with SickKids, is bridging this gap with a pediatric neurovascular simulator. By using a custom pump to mimic blood flow through 3D-printed vessel models based on patient MRI scans, the simulator provides affordable, high-fidelity training, ensuring children can access this gold-standard care.",
-  "Qualification": "",
+  "Qualification": "Mechatronics option for Biomedical Engineering and the Biomechanics option for Mechatronics Engineering",
   "awards": [
     {
-      "title": "",
-      "details": ""
+      "title": "Engineers of the Future Award",
+      "details": "Awarded $1000 early in the final term of the project for demonstrating great engineering potential"
     },
     {
-      "title": "",
-      "details": ""
+      "title": "Materials from SickKids",
+      "details": "Data, materials, and support provided by The SickKids Children's Hospital"
     }
   ],
   "Team_Members": "Lucas Di Pietro, Catie Balasubramanian, Mattie Kerrigan, Connor Kendall",
   "Advisor": "Andrea Scott",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Eye-opening, Rewarding, Marathon",
+  "Favourite_Memory": "Combining all of the individual components of the project and running the prototype successfully",
+  "Biggest_Challenges": ["Understanding complex fluid dynamics and how they relate in a physical prototype beyond theory.", "Balancing scope and ambition for the project, it is extremely easy to dream big and run out of time with the open-ended nature of capstone.", "Individual knowledge siloing that results in one expert for each component and when that expert gets stuck."],
+  "Takeaway": "Understanding the full cycle of an engineering project from stakeholder engagement for finding a problem space, to validation of a prototype. Along with working through the project with a team.",
+  "Advice": "Engage in many unique stakeholders as possible using 362 to fully define a problem space you are interested in and from which you can see a strong project coming from. Don’t be afraid to pivot early on and choose your team wisely. Also, apply for funding early and often - too many times funding is left on the table because teams don’t apply!",
+  "Whats_Next": ["The training simulator will be donated to the PCITIGI lab at SickKids Children’s Hospital where it will be used by our Stakeholders Dr. Carmen and Dr. Prakash in training workshops. It will also be used in support for future simulation across a variety of projects."],
+  "Contact_Information": "Lucas Di Pietro (l2dipiet@uwaterloo.ca), Catie Balasubramanian (cbalasub@uwaterloo.ca), Mattie Kerrigan (makerrig@uwaterloo.ca), or Connor Kendall (ckendall@uwaterloo.ca)",
   "Primary_Colour": "#760D36",
   "Secondary_Colour": "#A6C0BF",
   "Additional_Information": [

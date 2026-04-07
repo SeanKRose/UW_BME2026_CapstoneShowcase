@@ -2,26 +2,22 @@
   "Team_Number": "5",
   "Team_Name": "Spiiro",
   "Project_Description": "Chronic obstructive pulmonary disease (COPD) is the fourth leading cause of death worldwide and affects over 2 million Canadians. Rural patients face the highest risks and often travel hours for infrequent checkups. Spiiro bridges this gap with an at-home system that uses AI to analyze testing techniques and provide feedback on user errors. By generating clinically meaningful metrics in an accessible language, Spiiro supports patients and provides healthcare providers with the insights needed for timely, life-saving clinical decision-making.",
-  "Qualification": "",
+  "Qualification": "Medical AI and Medical Devices Specializations",
   "awards": [
     {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
+      "title": "Donation from Novus Medical",
+      "details": "Received spirometry mouthpieces and filters from Novus Medical, which allowed us to contiue to run tests on our device and validate our results."
     }
   ],
   "Team_Members": "Agam Soni, Andrew Gocheco, Andrew Fata, Wilson Chan",
   "Advisor": "John Zelek",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Integrative, Collaborative, Rewarding",
+  "Favourite_Memory": "Running our first test on our integrated system was definitely the standout moment for us. We activated the test from our mobile app and successfully recorded a spirometry test, and felt accomplished when the results appeared on the phone for the first time. It was satisfying to see the result of all our work over the past few months and finally integrate all of our subsystems.",
+  "Biggest_Challenges": ["Integrating the spirometry tube, the AI model and our Bluetooth connection was probably the biggest challenge we had to face. While these systems worked individually, we encountered new and unexpected issues when putting them together. For example, when connecting the tube to the mobile app via Bluetooth, there were issues with the volume calculation and inconsistencies with how the data was passed into our error analysis model, which required us to debug the different components one at a time.", "The calibration of our device was also a major challenge that required significant testing and iteration to determine the best approach. As we tried to calibrate our sensors, we were able to use a standard calibration tube and consult with respirologists in a professional lab setting, who helped us to validate our plan of applying different types of filtering and reducing noise in the system. It was an iterative process that involved evaluating trade-offs between different approaches, which was a great learning experience."],
+  "Takeaway": "One of our biggest takeaways from Capstone was how iterative real-world engineering is. With our remote spirometry device, things rarely worked on the first try, so we were consistently testing and refining both the hardware and software. It showed us that if you can envision something, you can build it, but it takes persistence and resilience to push through setbacks until it works reliably.",
+  "Advice": "Our best advice for future BME students is to be open to feedback and look for guidance from key stakeholders. Talking to clinicians and mentors early on and throughout the process helped us to better understand the problem we were addressing and specific considerations for our device. This helped us to build a final project that was better aligned with the specific user needs and felt more rewarding to know we were closer to addressing real issues.",
+  "Whats_Next": ["We are hoping to continue our collaboration with local respiratory clinics in the Waterloo area to potentially test the device with COPD patients to include data from a more representative population. We are also exploring next steps for patenting the device and potential paths for development or commercialization."],
+  "Contact_Information": "Agam Soni (a33soni@uwaterloo.ca), Andrew Gocheco (arcgoche@uwaterloo.ca), Andrew Fata (afata@uwaterloo.ca), or Wilson Chan (w56chan@uwaterloo.ca)",
   "Primary_Colour": "#3164DA",
   "Secondary_Colour": "#FBFCFF",
   "Additional_Information": [

@@ -5,12 +5,28 @@
   "Qualification": "Medical Devices Specialization",
   "awards": [
     {
+      "title": "Quantum Valley Investments Problem Pitch",
+      "details": "Awarded $7,500 from Quantum Valley Investments for demonstrating the most thorough and insightful understanding of a high-impact problem space."
+    },
+    {
       "title": "Baylis Medical Capstone Design Award",
       "details": "Awarded $5,000 from Baylis Medical for targeting a biomedical problem space demonstrating significant need."
     },
     {
+      "title": "Sustainability Award - BME and Faculty of Engineering",
+      "details": "Awarded $500 (Program Level) and $1,000 (Faculty Level) for demonstrating alignment with the United Nations Sustainable Development Goals (SDGs) through the project’s environmental, social, and economic impact."
+    },
+    {
+      "title": "iCapstone Guests Choice Award",
+      "details": "Awarded $1,000 as the iCapstone Guests’ Choice Award, selected by event attendees as the most compelling and impactful project."
+    },
+    {
       "title": "Engineer of the Future Fund",
-      "details": "Awarded $750 early on in the project for demonstrating great project potential"
+      "details": "Awarded $750 early in the final term of the project for demonstrating great engineering potential"
+    },
+    {
+      "title": "Glocal Foundation of Canada",
+      "details": "Awarded $200 from the GLOCAL Foundation of Canada for demonstrating community-focused innovation and civic impact through the capstone project."
     }
   ],
   "Team_Members": "Ayesha Waseem, Kulsum Ali, Sara Desoky",

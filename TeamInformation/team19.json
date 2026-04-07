@@ -2,26 +2,22 @@
   "Team_Number": "19",
   "Team_Name": "WAI",
   "Project_Description": "For many wheelchair users, being weighed during a medical visit is simply not feasible due to clinical constraints. Up to 70% of physicians rely on patients’ recalled weight while others are forced to guess, both of which are prone to error. Inaccurate weight measurements can lead to incorrect medication dosing, missed diagnoses, and other preventable health outcomes. Our project aims to solve this problem by developing a device to measure the weight of adult wheelchair users, reducing physical and financial barriers to accessible care.",
-  "Qualification": "",
+  "Qualification": "Medical AI Specialization",
   "awards": [
     {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
+      "title": "Canadian Posture & Seating Cenre Award",
+      "details": "Awarded $500 for a project focused on the development and delivery of systems, methodology or assistive devices that facilitate full participation in Canadian society by physically disadvantaged persons "
+}
   ],
   "Team_Members": "Adele Younis, Gavin DePiero, Alexis Bader, Mackenzie Snyder",
   "Advisor": "Jenny Howcroft",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Innovative, Inspiring, Rewarding",
+  "Favourite_Memory": "Bonding with your team! We did multiple team dinners and outings, and building connections outside of the work your team is doing is important for overall team health. We also found it extremely rewarding to talk with stakeholders who have experienced the problem we are tackling firsthand, and to hear their enthusiastic feedback because it validated the need for our device. ",
+  "Biggest_Challenges": ["One of the biggest challenges of Capstone that we faced was figuring out how to plan/organize our time for such an open-ended problem over a timespan of almost 2 full years. That being said, having a rough plan is super helpful to avoid falling behind."],
+  "Takeaway": "You can almost certainly achieve much more than you may think. It can be very daunting to undertake such a large project, but if you take it day by day, you’ll realize how capable you are of tackling such critical problems!",
+  "Advice": "While you are coming up with a project idea, talk to as many stakeholders as you can because they’ll talk about problems you never knew existed. Capstone is a lot of fun when you are working with a great group, so make a team with people you mesh with.",
+  "Whats_Next": ["Our team is heading off around the world for full-time employment and graduate studies. We received such positive feedback from clinical stakeholders that we are hoping to continue working on the project over the summer as a part-time endeavour."],
+  "Contact_Information": "Adele Younis (a4younis@uwaterloo.ca), Gavin DePiero (g2depiero@uwaterloo.ca), Alexis Bader (a3bader@uwaterloo.ca), or Mackenzie Snyder (m25snyde@uwaterloo.ca)",
   "Primary_Colour": "#002B56",
   "Secondary_Colour": "#ECF4FF",
   "Additional_Information": [

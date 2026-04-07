@@ -2,26 +2,39 @@
   "Team_Number": "3",
   "Team_Name": "LARS",
   "Project_Description": "Workplace-related pain is extremely prevalent amongst cardiac sonographers and is primarily caused by the high contact force against patients, exacerbated by long scans or large patients. Current market solutions either fail to target the root cause of the pain or aim to completely change or remove the sonographer’s role during an ultrasound scan. We designed a semi-robotic arm to be used with existing ultrasound equipment that helps to address cardiac sonographer pain by applying assistive force into the patient without affecting workflow.",
-  "Qualification": "",
+  "Qualification": "Medical Devices Specialization",
   "awards": [
     {
       "title": "Baylis Medical Capstone Design Award",
       "details": "Awarded $5,000 from Baylis Medical for targeting a biomedical problem space demonstrating significant need."
     },
     {
-      "title": "",
-      "details": ""
+      "title": "OAMRS Funding",
+      "details": "Received $2,500 in funding from the Ontario Association of Medical Radiation Sciences"
+    },
+    {
+      "title": "Linear Actuator Donation",
+      "details": "Received a linear actuator from Progessive Automations (~$400)"
+    },
+    {
+      "title": "Load Cell and Amplifier Donations",
+      "details": "Received a load cell and a DMA2 inline amplifier from INterface Force (~$1,400)"
+    },
+    {
+      "title": "Esch Pitch Competition Finalist",
+      "details": "Awarded $5,000 for extreme entrepreneurial skills in the pursuit of research and development and its commercialization for the benefit of Canada"
     }
+
   ],
   "Team_Members": "Rylin Soto, Alexa Daly, Serena Wittenberg, Luke Coulter",
   "Advisor": "Arash Arami",
-  "Overall_Capstone_Experience": "",
-  "Favourite_Memory": "",
-  "Biggest_Challenges": [""],
-  "Takeaway": "",
-  "Advice": "",
-  "Whats_Next": [],
-  "Contact_Information": "",
+  "Overall_Capstone_Experience": "Learning, Teamwork, Intense",
+  "Favourite_Memory": "Our favorite moments are when we have had crisis or high-stress situations (day before certifications, second guessing feasibility of solution, etc…). What usually happens in these situations, is that we would at first panic but then we would acknowledge the situation, take a break and go grab some food and return with a clearer mind to troubleshoot and fix the issues we were facing, together!",
+  "Biggest_Challenges": ["Actualizing our Solution: going from a idea to a fully developed prototype as undergraduate engineering students with limited funds, time and resources.","Time Management: each member in the team has a different schedule or even workload depending on the week/month. Sometimes finding the time to work on Capstone can be quite a challenge.","Finding External Funding: For our solution we knew we needed more funding than the University provides. We put in a lot of effort, time and work into networking and finding funds to support our project."],
+  "Takeaway": "The biggest takeaway from this experience is the importance of team dynamics. Aligning our individual strengths, goals, and maintaining open communication really helped us have a good environment to manage Capstone. In addition, the fact that we are good friends outside of Capstone and work well together which made communication much easier and the whole process more enjoyable.",
+  "Advice": "Ensure your team shares similar goals and expectations for Capstone from day one, including communication styles. This is very important as it will affect the overall amount of work that gets put into your Capstone project. We recommend reaching out to everyone and anyone related to your problem space as soon as possible. We were very surprised by the amount of people who were interested in our project even when we had only defined the problem space and had a very rough sketch of our solution. Also, start your physical prototyping early and always try to have a viable backup plan for your solution if things don’t go as planned.",
+  "Whats_Next": ["We are unsure as to where Capstone will lead us but we remain open to pursuing the project. It mostly depends on team availability and interest from clinical stakeholders in the sonography community."],
+  "Contact_Information": "Rylin Soto (rksoto@uwaterloo.ca), Alexa Daly (akdaly@uwaterloo.ca), Serena Wittenberg (swittenberg@uwaterloo.ca), or Luke Coulter (lcoulter@uwaterloo.ca)",
   "Primary_Colour": "#1278A0",
   "Secondary_Colour": "#EDF6FF",
   "Additional_Information": [

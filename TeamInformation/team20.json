@@ -2,17 +2,8 @@
   "Team_Number": "20",
   "Team_Name": "iCAP",
   "Project_Description": "Retinal imaging plays an important role in assessing a range of eye diseases, yet access remains limited by expensive equipment and rigid clinical setups. This project focuses on designing a compact, low-cost device that captures detailed, wide field-of-view images of the back of eye. Using infrared illumination and an adjustable chin-forehead support, the system accommodates natural differences in pupil size. Captured data is processed through a web-based platform to produce a composite image and support optometrists in clinical decision-making.",
-  "Qualification": "",
-  "awards": [
-    {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
-  ],
+  "Qualification": "Medical Devices and Medical AI Specializations",
+  "awards": [ ],
   "Team_Members": "Aaren Arasaratnam, Chloe Isesele, Natcha Fongsrisin, Emija Ravindran",
   "Advisor": "Cosmin Munteanu",
   "Overall_Capstone_Experience": "",
@@ -21,7 +12,7 @@
   "Takeaway": "",
   "Advice": "",
   "Whats_Next": [],
-  "Contact_Information": "",
+  "Contact_Information": "Aaren Arasaratnam (a2arasar@uwaterloo.ca), Chloe Isesele (cisesele@uwaterloo.ca), Natcha Fongsrisin (nfongsri@uwaterloo.ca), or Emija Ravindran (e2ravind@uwaterloo.ca)",
   "Primary_Colour": "#170E0F",
   "Secondary_Colour": "#F1E3E0",
   "Additional_Information": [
