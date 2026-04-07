@@ -3,16 +3,7 @@
   "Team_Name": "[AD]²",
   "Project_Description": "[AD]² is an assistive device designed for individuals with Alzheimer's disease to assist them in remembering their loved ones. The system integrates event-related potential (ERP) EEG with eye-tracking and monitors users’ neurophysiological responses to determine whether they recognize a person. When non-recognition is detected, it delivers personalized visual and auditory cues as a reminder. By automating reminders, [AD]² aims to reduce caregiver burden while lowering patient frustration associated with memory lapses and social disorientation.",
   "Qualification": "",
-  "awards": [
-    {
-      "title": "",
-      "details": ""
-    },
-    {
-      "title": "",
-      "details": ""
-    }
-  ],
+  "awards": [],
   "Team_Members": "Daniel Szelepcsenyi, Hailey Yena Kim, Vivien Yu, Yoonhee Park",
   "Advisor": "Richard Staines",
   "Overall_Capstone_Experience": "",
