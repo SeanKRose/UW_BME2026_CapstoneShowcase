@@ -24,9 +24,5 @@
   "Contact_Information": "Sydney Sherwood (sydney.sherwood@uwaterloo.ca), Andrew Shin (a9shin@uwaterloo.ca), or Sydney Thompson (s38thompson@uwaterloo.ca)",
   "Primary_Colour": "#3C2039",
   "Secondary_Colour": "#FCEDE8",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

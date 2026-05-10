@@ -28,9 +28,5 @@
   "Contact_Information": "Aadithya Sairam (asairam@uwaterloo.ca), Lucas DeMello (ldemello@uwaterloo.ca), Anna Polack (apolack@uwaterloo.ca), Anna Klygina (aklygina@uwaterloo.ca), or Maggie Lambe (m2lambe@uwaterloo.ca)",
   "Primary_Colour": "#2B588F",
   "Secondary_Colour": "#AF1314",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

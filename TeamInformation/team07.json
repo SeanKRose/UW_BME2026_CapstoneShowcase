@@ -4,7 +4,10 @@
   "Project_Description": "Proper illumination in the mouth is crucial in dentistry, but current lighting options present significant drawbacks. Overhead lamps cast shadows, requiring disruptive manual adjustments. Headlamps offer shadow-free focus but are heavy, causing ergonomic issues and neck strain. Our project will develop an automated overhead dental light system, combining headlamp precision with overhead comfort to eliminate minor adjustments and boost efficiency.",
   "Qualification": "Medical AI Specialization",
   "awards": [
-
+    {
+      "title": "Best Poster",
+      "details": "Awarded $500 for having the best BME Capstone Symposium poster."
+    }	
   ],
   "Team_Members": "Daniel Shim, Ayah Amer, Binalpreet Kalra, Leo Lau",
   "Advisor": "Allyson Giannikouris",
@@ -17,9 +20,5 @@
   "Contact_Information": "Daniel Shim (daniel.shim@uwaterloo.ca), Ayah Amer (ayah.amer@uwaterloo.ca), Binalpreet Kalra (b2kalra@uwaterloo.ca), or Leo Lau (ll2lau@uwaterloo.ca)",
   "Primary_Colour": "#2F4958",
   "Secondary_Colour": "#E9EDEE",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

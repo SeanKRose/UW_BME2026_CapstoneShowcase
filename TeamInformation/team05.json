@@ -6,7 +6,11 @@
   "awards": [
     {
       "title": "Donation from Novus Medical",
-      "details": "Received spirometry mouthpieces and filters from Novus Medical, which allowed us to contiue to run tests on our device and validate our results."
+      "details": "Received spirometry mouthpieces from Novus Medical, which allowed us to continue to run tests on our device and validate our results."
+    },
+    {
+      "title": "BME's Best of Waterloo - Commercialization Award",
+      "details": "Recognized by the BME program for our functional and affordable solution with strong commercialization potential."
     }
   ],
   "Team_Members": "Agam Soni, Andrew Gocheco, Andrew Fata, Wilson Chan",
@@ -18,11 +22,11 @@
   "Advice": "Our best advice for future BME students is to be open to feedback and look for guidance from key stakeholders. Talking to clinicians and mentors early on and throughout the process helped us to better understand the problem we were addressing and specific considerations for our device. This helped us to build a final project that was better aligned with the specific user needs and felt more rewarding to know we were closer to addressing real issues.",
   "Whats_Next": ["We are hoping to continue our collaboration with local respiratory clinics in the Waterloo area to potentially test the device with COPD patients to include data from a more representative population. We are also exploring next steps for patenting the device and potential paths for development or commercialization."],
   "Contact_Information": "Agam Soni (a33soni@uwaterloo.ca), Andrew Gocheco (arcgoche@uwaterloo.ca), Andrew Fata (afata@uwaterloo.ca), or Wilson Chan (w56chan@uwaterloo.ca)",
-  "Primary_Colour": "#3164DA",
+  "Primary_Colour": "#234084",
   "Secondary_Colour": "#FBFCFF",
   "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
+    {"type": "Symposium Slides", "link": "https://www.figma.com/deck/j7crSAGGvaGz9cC7GbnhoL"},
+    {"type": "Panel Exam", "link": "https://www.figma.com/deck/dJ8K9HN7aB1phkI1fU8VK6"},
+    {"type": "Design Report", "link": "https://drive.google.com/file/d/1Y7_AMHCNruUBivgf2EHXmei6yFtjOja6/view?usp=sharing"}
   ]
 }

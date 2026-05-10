@@ -24,9 +24,5 @@
   "Contact_Information": "Lucas Di Pietro (l2dipiet@uwaterloo.ca), Catie Balasubramanian (cbalasub@uwaterloo.ca), Mattie Kerrigan (makerrig@uwaterloo.ca), or Connor Kendall (ckendall@uwaterloo.ca)",
   "Primary_Colour": "#760D36",
   "Secondary_Colour": "#A6C0BF",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

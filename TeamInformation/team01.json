@@ -32,9 +32,5 @@
   "Contact_Information": "Kate Avison (kavison@uwaterloo.ca), Jordyn Maywood (jgmaywood@uwaterloo.ca), Maya DeVries (m5devrie@uwaterloo.ca), Mariam Busari (mbusari@uwaterloo.ca)",
   "Primary_Colour": "#882118",
   "Secondary_Colour": "#F6D7D4",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

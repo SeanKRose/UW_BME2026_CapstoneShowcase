@@ -20,9 +20,5 @@
   "Contact_Information": "Adele Younis (a4younis@uwaterloo.ca), Gavin DePiero (g2depiero@uwaterloo.ca), Alexis Bader (a3bader@uwaterloo.ca), or Mackenzie Snyder (m25snyde@uwaterloo.ca)",
   "Primary_Colour": "#002B56",
   "Secondary_Colour": "#ECF4FF",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

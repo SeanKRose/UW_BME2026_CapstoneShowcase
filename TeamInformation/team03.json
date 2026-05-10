@@ -37,9 +37,5 @@
   "Contact_Information": "Rylin Soto (rksoto@uwaterloo.ca), Alexa Daly (akdaly@uwaterloo.ca), Serena Wittenberg (swittenberg@uwaterloo.ca), or Luke Coulter (lcoulter@uwaterloo.ca)",
   "Primary_Colour": "#1278A0",
   "Secondary_Colour": "#EDF6FF",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

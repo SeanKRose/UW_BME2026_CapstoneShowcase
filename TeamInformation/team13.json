@@ -24,9 +24,5 @@
   "Contact_Information": "Dhriti Gabani (dgabani@uwaterloo.ca), Rohan Mistry (r34mistr@uwaterloo.ca), Sophia Xie (s55xie@uwaterloo.ca), or Mika Shaw (m24shaw@uwaterloo.ca)",
   "Primary_Colour": "#040304",
   "Secondary_Colour": "#E8CFE2",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

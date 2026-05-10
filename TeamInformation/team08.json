@@ -15,9 +15,5 @@
   "Contact_Information": "Andre Villanueva (agvillan@uwaterloo.ca), Emily Rose (erose@uwaterloo.ca), Clara Kim (ck3kim@uwaterloo.ca), or Navalan Thadchanamoorthy (nsthadch@uwaterloo.ca)",
   "Primary_Colour": "#1D213E",
   "Secondary_Colour": "#F1E9DE",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": []
 }

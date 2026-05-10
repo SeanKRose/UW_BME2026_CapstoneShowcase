@@ -15,9 +15,5 @@
   "Contact_Information": "",
   "Primary_Colour": "#235079",
   "Secondary_Colour": "#FBFDFC",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

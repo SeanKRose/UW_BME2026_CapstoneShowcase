@@ -25,8 +25,7 @@
   "Primary_Colour": "#03565A",
   "Secondary_Colour": "#D9E8EB",
   "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
+    {"type": "Panel Exam", "link": "https://docs.google.com/presentation/d/1tWccMeq2z8-ypijt1k8K_cc-8IUKgR3a/edit?usp=sharing&ouid=101201641842135801571&rtpof=true&sd=true"},
+    {"type": "Design Report", "link": "https://docs.google.com/document/d/1oqpfTa1wx-xnZ6foxEPvWTGewQ3uLpzwle-HcH1-sbQ/edit?usp=sharing"}
   ]
 }

@@ -15,9 +15,5 @@
   "Contact_Information": "Rebecca Lai (r32lai@uwaterloo.ca), Qais Khan (q5khan@uwaterloo.ca), Jarett Dewbury (jdewbury@uwaterloo.ca), or Owen Clayton (oclayton@uwaterloo.ca)",
   "Primary_Colour": "#202020",
   "Secondary_Colour": "#FCF5F5",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

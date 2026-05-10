@@ -24,9 +24,5 @@
   "Contact_Information": "Ryan Jing (r5jing@uwaterloo.ca), Tegan Asprey (tasprey@uwaterloo.ca), Jenny Wu (j622wu@uwaterloo.ca), Matthew Keller (m6keller@uwaterloo.ca), or Tyler Bell (t6bell@uwaterloo.ca)",
   "Primary_Colour": "#2B2B2B",
   "Secondary_Colour": "#FFFFFF",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

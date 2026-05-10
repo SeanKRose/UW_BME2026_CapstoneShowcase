@@ -15,9 +15,5 @@
   "Contact_Information": "Shirley Lin (s326lin@uwaterloo.ca), Ashley Chen (a346chen@uwaterloo.ca), or Vanessa Mac (v4mac@uwaterloo.ca)",
   "Primary_Colour": "#096B3C",
   "Secondary_Colour": "#FFF3D9",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

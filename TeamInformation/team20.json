@@ -15,9 +15,5 @@
   "Contact_Information": "Aaren Arasaratnam (a2arasar@uwaterloo.ca), Chloe Isesele (cisesele@uwaterloo.ca), Natcha Fongsrisin (nfongsri@uwaterloo.ca), or Emija Ravindran (e2ravind@uwaterloo.ca)",
   "Primary_Colour": "#170E0F",
   "Secondary_Colour": "#F1E3E0",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [ ]
 }

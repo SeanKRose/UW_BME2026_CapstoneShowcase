@@ -14,7 +14,7 @@
     },
     {
       "title": "Sustainability Award - BME and Faculty of Engineering",
-      "details": "Awarded $500 (Program Level) and $1,000 (Faculty Level) for demonstrating alignment with the United Nations Sustainable Development Goals (SDGs) through the project’s environmental, social, and economic impact."
+      "details": "Awarded $1,000 (Program Level) and $1,000 (Faculty Level) for demonstrating alignment with the United Nations Sustainable Development Goals (SDGs) through the project’s environmental, social, and economic impact."
     },
     {
       "title": "iCapstone Guests Choice Award",
@@ -40,9 +40,5 @@
   "Contact_Information": "Ayesha Waseem (a9waseem@uwaterloo.ca), Kulsum Ali (kfali@uwaterloo.ca), or Sara Desoky (sdesoky@uwaterloo.ca)",
   "Primary_Colour": "#056633",
   "Secondary_Colour": "#E3EEEA",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [  ]
 }

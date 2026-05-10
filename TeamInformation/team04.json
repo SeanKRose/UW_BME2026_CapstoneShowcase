@@ -15,9 +15,5 @@
   "Contact_Information": "Rebecca Grootendorst (rggrootendorst@uwaterloo.ca), Jack Farlow (jfarlow@uwaterloo.ca), or Priya Sivarajan (p6sivarajan@uwaterloo.ca)",
   "Primary_Colour": "#121413",
   "Secondary_Colour": "#68C193",
-  "Additional_Information": [
-    {"type": "Symposium Slides", "link": ""},
-    {"type": "Panel Exam", "link": ""},
-    {"type": "Design Report", "link": ""}
-  ]
+  "Additional_Information": [ ]
 }
